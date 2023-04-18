@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 const routes = [
   {
     path: '/',
-    name: 'top',
+    name: 'Top',
     component: async () => {
       const top = await import('@/pages/Top.vue');
       return top;
@@ -32,7 +32,7 @@ const routes = [
       const skills = await import('@/pages/Skills.vue');
       return skills;
     }
-  }
+  },
 ];
 
 const router = createRouter({

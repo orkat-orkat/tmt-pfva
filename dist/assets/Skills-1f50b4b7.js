@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as o,a as t}from"./index-f7d224a0.js";const c={},a={class:"about"},n=t("h1",null,"This is an Skill page",-1),_=[n];function r(i,l){return s(),o("div",a,_)}const f=e(c,[["render",r]]);export{f as default};

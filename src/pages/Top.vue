@@ -37,6 +37,6 @@ import CV from '@/pages/CV.vue';
         this.$router.push('/CV')
       }
     }
-    //index.tsにも追加すること
+    // router/index.tsにも追加すること
   }
 </script>

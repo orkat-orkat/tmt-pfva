@@ -1,22 +1,54 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+
+import TheFooter from '@/pages/TheFooter.vue'
+import About from '@/pages/About.vue'
+import Top from '@/pages/Top.vue'
+import TheHeader from '@/pages/TheHeader.vue'
+
 </script>
 
 <template>
-  <RouterView />
+  <div class="wrap">
+  <TheHeader />
+
+   <main class="main">
+     <Top />
+   </main>
+
+   <main class="main">
+    <RouterView />
+  
+   </main>
+  
+   <TheFooter />
+ 
+  </div>
+
+
 </template>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+<style>
+@import 'assets/css/destyle.css';
+@import 'assets/css/base.css';
+.wrap{
+ display: flex;
+ flex-direction:column;
+ align-items: center;
+ min-height: 100vh;
+ widows: 480px;
+ margin: 0 auto;
+ font-family: sans-serif;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+
+.main{
+ flex:1;
+ width: 100%;
 }
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+#app {
+ font-family: Avenir, Helvetica, Arial, sans-serif;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+ text-align: center;
+ color: #2c3e50;
 }
 </style>
