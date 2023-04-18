@@ -13,8 +13,16 @@ const routes = [
     path: '/About',
     name: 'About',
     component: async () => {
-      const login = await import('@/pages/About.vue');
-      return login;
+      const about = await import('@/pages/About.vue');
+      return about;
+    }
+  },
+  {
+    path: '/Skills',
+    name: 'Skills',
+    component: async () => {
+      const skills = await import('@/pages/Skills.vue');
+      return skills;
     }
   }
 ];

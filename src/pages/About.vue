@@ -1,10 +1,19 @@
-<script setup lang="ts">
 
-</script>
 
 <template>
-  <span>Aboutページの予定です</span>
-</template>
+  <div class="about">
+    <h1>This is an About page</h1>
+    
+  </div>
 
-<style scoped>
+</template>
+ 
+<style>
+@media (min-width: 1024px) {
+  .about {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+}
 </style>
