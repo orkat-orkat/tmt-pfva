@@ -18,6 +18,14 @@ const routes = [
     }
   },
   {
+    path: '/CV',
+    name: 'CV',
+    component: async () => {
+      const cv = await import('@/pages/CV.vue');
+      return cv;
+    }
+  },
+  {
     path: '/Skills',
     name: 'Skills',
     component: async () => {
