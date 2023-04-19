@@ -7,15 +7,10 @@
     <li class="footer-font2">Contact</li>   
     </ul>
     <h2 class="footer">
-        <small class="copyright">Copyright &copy; 2022-2023 Tommy. All Rights Reserved.</small>
+        <font-awesome-icon icon="fa-solid fa-coffee" class="green" />  <small class="copyright">Copyright &copy; 2022-2023 Tommy. All Rights Reserved.</small>  <font-awesome-icon icon="fa-solid fa-leaf" class="green"/> 
     </h2>
 </template>
 
 <style scoped>
 
-
-.copyright{
-    color:green;
-    font-size: small;
-}
 </style>

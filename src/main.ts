@@ -1,9 +1,25 @@
-import { createApp } from 'vue'
+import { createApp } from "vue";
 import './style.css'
-import App from './App.vue'
-import router from '@/router'
+import App from "./App.vue";
+import router from "./router";
 
-const app = createApp(App)
+//ここから追加
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { fab } from '@fortawesome/free-brands-svg-icons'
 
-app.use(router)
-app.mount('#app')
+//Add all icons to the library so you can use it in your page
+library.add(fas, fab)
+
+/* import font awesome icon component */
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
+/* import specific icons */
+import { faLeaf } from '@fortawesome/free-solid-svg-icons'
+library.add(faLeaf)
+//ここまで追加
+
+createApp(App)
+    .component("FontAwesomeIcon", FontAwesomeIcon)
+    .use(router)
+    .mount("#app");

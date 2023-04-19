@@ -8,8 +8,7 @@ import TheHeader from '@/pages/TheHeader.vue'
 <template>
   <div class="wrap">
   <TheHeader />
-
-   <main class="main">
+ <main class="main">
     <RouterView />
    </main>
   
@@ -25,3 +24,4 @@ import TheHeader from '@/pages/TheHeader.vue'
 @import 'assets/css/pages.css';   /* each pages layouts and bases */ 
 @import 'style.css'; /* special  */ 
 </style>
+

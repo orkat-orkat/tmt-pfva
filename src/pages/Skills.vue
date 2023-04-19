@@ -36,14 +36,14 @@
     </ul>
     <ul class="cv-list">
       <li class="list-short-text skill-name">Python(Pending)</li>
-      <li class="list-short-text">Self studying</li>
+      <li class="list-short-text">Self Study</li>
       <li class="list-long-text">Want to use for data analysis</li>
     </ul>
 
     <h6 class="subtitle4 education">Frameworks</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name">Vue3</li>
-      <li class="list-short-text">Self Studying</li>
+      <li class="list-short-text">Self Study</li>
       <li class="list-long-text">Very Fun...</li>
     </ul>
 
@@ -59,8 +59,17 @@
       <li class="list-short-text skill-name">Subversion</li>
       <li class="list-short-text skill-name">VS Code</li>
       <li class="list-short-text skill-name">Git</li>
-      <li class="list-short-text skill-name">Teams</li>
-      <li class="list-short-text skill-name">Teams</li>
+      <li class="list-short-text skill-name">Miro</li>
+      <li class="list-short-text skill-name"><font-awesome-icon icon="phone" />Slack</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'phone']" />Teams</li>
+    </ul>
+
+    <h6 class="subtitle4 education">Other Design Tools</h6>
+    <ul class="cv-list">
+      <li class="list-short-text skill-name">Affinity</li>
+      <li class="list-short-text skill-name">Miro</li>
+      <li class="list-short-text skill-name">Figma</li>
+      <li class="list-short-text skill-name">Books</li>
     </ul>
 
   
