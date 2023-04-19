@@ -1,7 +1,7 @@
 
 <template>
   <div class="contents">
-  <h4 class="subtitle1">test</h4>
+  <h4 class="subtitle1">About</h4>
   <div class="self-wrap">
       <div class="self-items">1</div>
       <div class="self-items">2</div>

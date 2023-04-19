@@ -45,6 +45,14 @@ const routes = [
     }
   },
   {
+    path: '/English',
+    name: 'English',
+    component: async () => {
+      const english = await import('@/pages/English.vue');
+      return english;
+    }
+  },
+  {
     path: '/',
     name: 'none',
     component: async () => {
