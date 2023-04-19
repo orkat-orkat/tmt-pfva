@@ -29,6 +29,16 @@
     padding-bottom: 14px;
 }
 
+/* sub contents　タイトル*/
+.subtitle4 {
+    font-size: 1.2em;
+    font-family: 'Shippori Mincho';
+    color:rgb(13, 84, 13);
+    font-weight: bold;
+    text-align: left;
+    margin: 24px;
+}
+
 .self-wrap{
     display: flex;
     padding:50px 0;
@@ -165,6 +175,14 @@ ul.footer-list li:nth-of-type(5) {
     text-align: left;
     font-size: 32px;
     font-weight: bold;
+    color: #212121;
+   }
+   .title a{
+    color: #212121;
+   }
+   .title a:hover{
+    color: #212121;
+    border-bottom: 1px dashed #ccc;
    }
    
    .nav{
@@ -186,3 +204,67 @@ ul.footer-list li:nth-of-type(5) {
      margin-left: auto;
      background-color: #ffc;
    }
+
+  /* Skills */
+
+  .cv-skills{
+        color:rgb(67, 67, 3);
+  }
+
+  /* CV */
+  
+  ul.cv-list {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    padding:2% 2% 0 2%;
+    text-align: left;
+  }
+  ul.cv-list:nth-of-type(1) { 
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    color: #3f3f3f;
+  }
+
+  ul.cv-list:last-child { 
+    margin-bottom: 4em;
+  }
+
+  ul.cv-list{ 
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    padding:0 2% 2% 2%;
+  }
+
+  .cv-list li{
+    line-height: 1.4;
+ 
+    border-bottom:1px dashed #212121 ;
+  }
+
+  li.list-short-text{
+    margin-right: 2em;
+    width: 30%;
+  }
+  li.list-long-text{
+    min-width: 40%;
+  }
+
+  ul.cv-sub-list{
+    padding:0;
+  }
+  .cv-sub-list li {
+    line-height: 1.2;
+    border-bottom: #212121;
+  }
+
+  .education{
+    color: cadetblue;
+  }
+
+  /* common */
+  .bold {
+    font:bold;
+  }

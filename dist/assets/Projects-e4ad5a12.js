@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as t,e as c}from"./index-6a51f235.js";const i={},o={class:"contents"},a=c('<h4 class="subtitle1">this is Projects page </h4><div class="self-wrap"><div class="self-items">1</div><div class="self-items">2</div><div class="self-items">3</div></div>',2),d=[a];function l(n,r){return e(),t("div",o,d)}const f=s(i,[["render",l]]);export{f as default};

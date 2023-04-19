@@ -45,6 +45,14 @@ const routes = [
     }
   },
   {
+    path: '/Projects',
+    name: 'Projects',
+    component: async () => {
+      const projects = await import('@/pages/Projects.vue');
+      return projects;
+    }
+  },
+  {
     path: '/English',
     name: 'English',
     component: async () => {
