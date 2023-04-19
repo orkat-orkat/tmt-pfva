@@ -3,9 +3,14 @@
 </script>
 
 <template>
-   <div class="about">
-    <h1>This is an Skill page</h1>
+   <div class="contents">
+    <h4 class="subtitle1">this is Skills page </h4>
+    <div class="self-wrap">
+      <div class="self-items">1</div>
+      <div class="self-items">2</div>
+      <div class="self-items">3</div>
   </div>
+</div>
 </template>
 
 

@@ -41,8 +41,10 @@ body {
  * Render the `main` element consistently in IE.
  */
 
-main {
+.main {
   display: block;
+  flex:1;
+  width: 100%;
 }
 
 /* Vertical rhythm */

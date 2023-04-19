@@ -11,9 +11,7 @@ import TheHeader from '@/pages/TheHeader.vue'
   <div class="wrap">
   <TheHeader />
 
-   <main class="main">
-     <Top />
-   </main>
+  
 
    <main class="main">
     <RouterView />
@@ -30,25 +28,7 @@ import TheHeader from '@/pages/TheHeader.vue'
 <style>
 @import 'assets/css/destyle.css';
 @import 'assets/css/base.css';
-.wrap{
- display: flex;
- flex-direction:column;
- align-items: center;
- min-height: 100vh;
- widows: 480px;
- margin: 0 auto;
- font-family: sans-serif;
-}
+@import 'assets/css/pages.css';
+@import 'style.css';
 
-.main{
- flex:1;
- width: 100%;
-}
-#app {
- font-family: Avenir, Helvetica, Arial, sans-serif;
- -webkit-font-smoothing: antialiased;
- -moz-osx-font-smoothing: grayscale;
- text-align: center;
- color: #2c3e50;
-}
 </style>

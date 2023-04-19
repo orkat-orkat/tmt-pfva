@@ -1,8 +1,11 @@
+//ここにあるものが、RouterView/RouterLinkに使える
+
 import { createRouter, createWebHistory } from 'vue-router';
+import NotFound from '＠/NotFound.vue';
 
 const routes = [
   {
-    path: '/',
+    path: '/Top',
     name: 'Top',
     component: async () => {
       const top = await import('@/pages/Top.vue');
@@ -26,6 +29,14 @@ const routes = [
     }
   },
   {
+    path: '/Contact',
+    name: 'Contact',
+    component: async () => {
+      const contact = await import('@/pages/Contact.vue');
+      return contact;
+    }
+  },
+  {
     path: '/Skills',
     name: 'Skills',
     component: async () => {
@@ -33,6 +44,22 @@ const routes = [
       return skills;
     }
   },
+  {
+    path: '/',
+    name: 'none',
+    component: async () => {
+      const top = await import('@/pages/Top.vue');
+      return top;
+    }
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'NotFound',
+    component: async () => {
+      const notfound = await import('@/pages/NotFound.vue');
+      return notfound;
+    }
+  }
 ];
 
 const router = createRouter({

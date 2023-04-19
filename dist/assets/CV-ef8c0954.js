@@ -1,1 +1,0 @@
-import{_ as e,c as s,o,b as t}from"./index-edc31d23.js";const c={},a={class:"about"},n=t("h1",null,"This is an CV page",-1),_=[n];function r(i,d){return o(),s("div",a,_)}const f=e(c,[["render",r]]);export{f as default};

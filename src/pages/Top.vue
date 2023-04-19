@@ -1,42 +1,15 @@
-<script setup lang="ts">
-
-</script>
-
 <template>
-  <span>Topページの予定です</span>
-  <button @click="About">Aboutにいきたい</button>
-  <button @click="Skills">Skillsにいきたい</button>
-  <button @click="CV">CVにいきたい</button>
+  <div class="contents">
+   <div class="top">
+    <h4 class="subtitle1">this is Top page </h4>
+    <div class="self-wrap">
+      <div class="self-items">Top</div>
+      <div class="self-items">2</div>
+      <div class="self-items">3</div>
+  </div>
+  </div>
+</div>
 </template>
 
 
-<style>
-  @media (min-width: 1024px) {
-    .about {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-    }
-  }
-  </style>
 
-<script>
-import About from '@/pages/About.vue';
-import Skills from '@/pages/Skills.vue';
-import CV from '@/pages/CV.vue';
-
-  export default {
-    methods: {
-      About: function () {
-        this.$router.push('/About')
-      },
-      Skills: function () {
-        this.$router.push('/Skills')
-      },
-      CV: function () {
-        this.$router.push('/CV')
-      }
-    }
-    // router/index.tsにも追加すること
-  }
-</script>
