@@ -59,8 +59,14 @@ import Skills from '@/pages/Skills.vue'
   <h4 class="subtitle1 cv-skills">Design Certificate</h4>
     <h6 class="subtitle4 education">人間中心設計専門家（Certified Human Centered Design Professional）</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">User Research</li>
+      <li class="list-short-text skill-name">User Research / HCD Process</li>
       <li class="list-short-text">Affinity Diagram(KJ Method) / <br> Customer Journey Map / Workshop</li>
+      <li class="list-long-text">Certified</li>
+    </ul>
+    <h6 class="subtitle4 education">Design Thinking</h6>
+    <ul class="cv-list">
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'arrow-progress']" />Design Thinking Process</li>
+      <li class="list-short-text">Empathize / Define / Ideate /  <br>  Prototype / Test</li>
       <li class="list-long-text">Certified</li>
     </ul>
     <h6 class="subtitle4 education">色彩検定（Test in color coordination）</h6>

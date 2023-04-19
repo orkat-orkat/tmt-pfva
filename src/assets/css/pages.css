@@ -275,6 +275,7 @@ color: green;
     margin-right: 2em;
     width: 30%;
   }
+  
   li.list-long-text{
     min-width: 40%;
   }
@@ -299,4 +300,7 @@ color: green;
   .skill-name{
     font-weight: bold;
   }
-
+/* font-awsome用*/
+  
+  .fa{
+    margin-right: 1em;}

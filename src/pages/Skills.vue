@@ -4,45 +4,45 @@
     <h4 class="subtitle1 cv-skills">Skills</h4>
     <h6 class="subtitle4 education">Adobe</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">XD / Photoshop / Illustrator</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'bezier-curve']" class="fa-pull-left"/>XD / Photoshop / Illustrator</li>
       <li class="list-short-text">Wireflame, UI, </li>
       <li class="list-long-text">more than 10years</li>
     </ul>
 
     <h6 class="subtitle4 education">Microsoft</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">Azure</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'cloud']" class="fa-pull-left"/>Azure</li>
       <li class="list-short-text">Deplpy Apps</li>
       <li class="list-long-text">Certificate</li>
     </ul>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">Office / <br >Word / Excel / Powerpoint / Teams</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>Word / Excel / Powerpoint / Teams</li>
       <li class="list-short-text">Project Use / Self Study</li>
       <li class="list-long-text">more than 10years</li>
     </ul>
 
     <h6 class="subtitle4 education">Amazon</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">AWS</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'aws']" class="fa-pull-left"/>AWS</li>
       <li class="list-short-text">Self Study</li>
       <li class="list-long-text">Certificate</li>
     </ul>
 
     <h6 class="subtitle4 education">Programming</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">HTML / CSS / JavaScript</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'html5']" class="fa-pull-left"/>HTML / CSS / JavaScript</li>
       <li class="list-short-text">Project Use / Self Study</li>
       <li class="list-long-text">Certificate</li>
     </ul>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">Python(Pending)</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'python']" class="fa-pull-left"/>Python(Pending)</li>
       <li class="list-short-text">Self Study</li>
       <li class="list-long-text">Want to use for data analysis</li>
     </ul>
 
     <h6 class="subtitle4 education">Frameworks</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">Vue3</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'vuejs']" class="fa-pull-left"/>Vue3</li>
       <li class="list-short-text">Self Study</li>
       <li class="list-long-text">Very Fun...</li>
     </ul>
@@ -55,21 +55,20 @@
 
     <h6 class="subtitle4 education">Other Tools</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">Confluence</li>
-      <li class="list-short-text skill-name">Subversion</li>
-      <li class="list-short-text skill-name">VS Code</li>
-      <li class="list-short-text skill-name">Git</li>
-      <li class="list-short-text skill-name">Miro</li>
-      <li class="list-short-text skill-name"><font-awesome-icon icon="phone" />Slack</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'phone']" />Teams</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'confluence']" class="fa-pull-left"/>Confluence</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 's']" class="fa-pull-left"/>Subversion</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>VS Code</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Git</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'slack']" class="fa-pull-left"/>Slack</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'windows']" class="fa-pull-left"/>Teams</li>
     </ul>
 
     <h6 class="subtitle4 education">Other Design Tools</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name">Affinity</li>
-      <li class="list-short-text skill-name">Miro</li>
-      <li class="list-short-text skill-name">Figma</li>
-      <li class="list-short-text skill-name">Books</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'a']" class="fa-pull-left"/>Affinity</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'm']" class="fa-pull-left"/>Miro</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'figma']" class="fa-pull-left"/>Figma</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'book']" class="fa-pull-left"/>Books</li>
     </ul>
 
   
