@@ -5,6 +5,8 @@ import TheHeader from '@/pages/TheHeader.vue'
 
 </script>
 
+
+
 <template>
   <div class="wrap">
   <TheHeader />
@@ -23,5 +25,6 @@ import TheHeader from '@/pages/TheHeader.vue'
 @import 'assets/css/destyle.css'; /* reset */ 
 @import 'assets/css/pages.css';   /* each pages layouts and bases */ 
 @import 'style.css'; /* special  */ 
+@import url('https://fonts.googleapis.com/css?family=Palanquin+Dark:400,600'); /* timeline  */ 
 </style>
 

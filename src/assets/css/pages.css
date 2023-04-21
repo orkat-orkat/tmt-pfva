@@ -1,15 +1,18 @@
 /* -- pages About --*/
+.about-project{
+  margin: 6em 0;
+}
 .subtitle1
 {
     font-size: 2em;
     font-family: 'Noto Sans Japanese';
-    color:blue;
+    color:#263468;
     text-align: left;
     font-weight: bold;
     border-bottom: 1px solid #aaa;
-    padding-bottom: 0.2em;
-    margin-top: 1em;
+    margin-top: 2em;;
 }
+
 .subtitle2{
     font-size: 2em;
     font-family: 'Noto Sans Japanese';
@@ -76,9 +79,20 @@
 .self-items3{
     display: flex;
     flex-direction: column; /* 縦に並べる*/
-    margin:0  1em;
+    margin:0 0 0 1em;
     width: 30%;
     background-color: #f46303;
+    border-radius: 0.5em;
+    color: #ccc;
+    padding:1em;
+}
+
+.self-items4{
+  display: flex;
+    flex-direction: column; /* 縦に並べる*/
+    margin:0 1em 0 0;
+    width: 30%;
+    background-color: #65700fe8;
     border-radius: 0.5em;
     color: #ccc;
     padding:1em;
@@ -91,9 +105,28 @@
     flex-wrap: wrap;
     align-items: flex-start;
     align-content: flex-start;
-    border-bottom: 1px dashed blue ;
+    border-bottom: 2px solid #ccc;
     margin:10px;
     width: 100%;
+}
+
+.self-history{
+  display: flex;
+  background: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.self-history-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4em;
+  background-color: #b000b0;
+  border-radius: 0.5em;
+  color: #ccc;
+  margin: 0 1em;
+  padding: 0 2em;
 }
 
 .about-items{
@@ -101,13 +134,15 @@
   justify-content: center;
   align-items: center;
   height: 100px;
-  margin:0  8px;
   width: 400px;
   background-color: #012c40;
   border-radius: 0.5em;
   color: #ccc;
   padding-left: 0.5em;
+  margin: 0 1em;
 }
+
+.about-items:last-child{margin:0}
 
 .output-items{
   display: flex;
@@ -141,14 +176,21 @@
 
 .about-box-list{
   text-align: left;
+  color: #e7e7e7;
 }
 
 .about-txt{
   margin-bottom: 4em;
   margin-left: 1em;
-  margin-top:2em;
   text-align: left;
   line-height: 1.6em;
+  margin-top:1em;
+}
+
+
+/*Projects*/
+.project-item{
+  margin: 6em 0;
 }
 
 .frame-items{
@@ -195,12 +237,15 @@ p{
 }
 
 
- 
+.history{
+font-size: 1.4em;
+}
   ul.list-history  {
     list-style: none;
     text-align: left;
     margin-left:2em;
     margin-top:1em;
+    font-size: 0.8em;
   }
   li.list-history-items{
     position: relative;
@@ -287,17 +332,45 @@ color: green;
      display: flex;
      justify-content: flex-start;
      width: 100%;
-     padding:2%;
+     padding:2% 0 0 2%;
    }
    
    ul.header-list li{
      margin-right: 10px;
    }
-   
-   ul.header-list li:nth-of-type(4) {
-     margin-left: auto;
-     background-color: #ffc;
+  
+
+   ul.header-list .btn-contact {
+    margin-left: auto;
+     padding:0.5em 2em;
+     font-weight: bold;
+     font-size: 1em;
    }
+
+   .header-list .btn-contact a{
+    color: #646cff;
+    padding:0.5em 2em;
+    border-bottom:none;
+   }
+
+   .header-list .btn-contact a:hover{
+    background-color:#3399CC ;
+   }
+
+   .header-list a{
+    color: #646cff;
+    padding:0.5em 2em;
+    border-bottom:1px solid #3399CC;
+   }
+
+   .header-list a:hover{
+    background-color:#3399CC;
+    color: #fff;
+    border-radius: 2em;
+    }
+
+  
+
 
   /* Skills */
 
@@ -376,7 +449,7 @@ color: green;
     color:#a0895f;
   }
   .workexperience{
-    color:#69a05f
+    color:#69a05f;
   }
 
   /* common */

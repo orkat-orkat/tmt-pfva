@@ -44,14 +44,20 @@
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'vuejs']" class="fa-pull-left"/>Vue3</li>
       <li class="list-short-text">Self Study</li>
-      <li class="list-long-text">Very Fun...</li>
+      <li class="list-long-text">Very Fun and Chotto Taihen</li>
     </ul>
 
     <ul class="cv-list">
       <li class="list-short-text skill-name">Bootstrap</li>
       <li class="list-short-text">Project Use / Self Study</li>
-      <li class="list-long-text">Fun...</li>
+      <li class="list-long-text">Very Fun and Kekkou Taihen</li>
     </ul>
+
+    <ul class="cv-list">
+      <li class="list-short-text skill-name">Ionic</li>
+      <li class="list-short-text">Project Use </li>
+      <li class="list-long-text">Not many times.</li>
+    </ul>s
 
     <h6 class="subtitle4 other">Other Tools</h6>
     <ul class="cv-list">
@@ -83,7 +89,7 @@
             <img src="@/assets/img/DesignThinking_cert.jpg" alt="" class="" width="80%">
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
+          <p>Self Study and Project Use</p>
       </div>
 
         <div class="self-items5">
@@ -91,7 +97,7 @@
             <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
+          <p>Self Study and Project Use</p>
       </div>
 
         <div class="self-items5">
@@ -99,7 +105,7 @@
             <img src="@/assets/img/MicrosoftAzureFunadmentals.png" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
+          <p>Project Use</p>
       </div>
 
         <div class="self-items5">
@@ -107,7 +113,7 @@
             <img src="@/assets/img/awsCloudPractitioner.png" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
+          <p>Self Study</p>
       </div>
     
         <div class="self-items5">
@@ -115,7 +121,7 @@
             <img src="@/assets/img/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
+          <p>Self Study and Project Use</p>
       </div>
       
      

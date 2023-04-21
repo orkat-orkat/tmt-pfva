@@ -1,7 +1,6 @@
 //ここにあるものが、RouterView/RouterLinkに使える
 
 import { createRouter, createWebHistory } from 'vue-router';
-import NotFound from '＠/NotFound.vue';
 
 const routes = [
   {
@@ -60,6 +59,14 @@ const routes = [
       return english;
     }
   },
+  /* {
+    path: '/Timeline',
+    name: 'Timeline',
+    component: async () => {
+      const timeline = await import('@/pages/Timeline.vue');
+      return timeline;
+    }
+  }, */
   {
     path: '/',
     name: 'none',

@@ -14,10 +14,7 @@ library.add(fas, fab)
 /* import font awesome icon component */
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
-/* import specific icons */
-import { faLeaf } from '@fortawesome/free-solid-svg-icons'
-library.add(faLeaf)
-//ここまで追加
+
 
 createApp(App)
     .component("FontAwesomeIcon", FontAwesomeIcon)
