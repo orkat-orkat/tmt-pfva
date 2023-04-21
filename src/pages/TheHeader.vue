@@ -10,7 +10,6 @@
     <ul class="header-list">
     <li><RouterLink to="/About">About</RouterLink></li>
     <li><RouterLink to="/CV">CV </RouterLink></li>
-    <li><RouterLink to="/Projects">Projects</RouterLink></li>
     <li><RouterLink to="/English">English</RouterLink></li>
     <li><RouterLink to="/Contact">Contact</RouterLink></li>   
 	</ul>
