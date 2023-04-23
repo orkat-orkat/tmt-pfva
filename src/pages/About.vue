@@ -25,11 +25,11 @@ import Projects from '@/pages/Projects.vue'
   
     <div class="self-wrap">
       <div class="my-history">
-      <div class="self-history-items">User Research</div>
+      <div class="self-history-items">User Experience（体験構築）</div>
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-history-items">User Research</div>
+      <div class="self-history-items">User Research（ユーザー理解）</div>
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-history-items">User Research</div>
+      <div class="self-history-items">Technology（技術）</div>
     </div>
     </div>
 
