@@ -3,7 +3,7 @@
 <template>
   <div class="nav">
   <h1 class="title">
-    <RouterLink to="/Top">Title and Nav</RouterLink>
+    <RouterLink to="/Top">Tommy's Portfolio</RouterLink>
   </h1>
 
   <nav>

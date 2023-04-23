@@ -12,23 +12,30 @@ import Projects from '@/pages/Projects.vue'
             <li>いつも大変でしたが、楽しかったです。</li>
         </ul>
     </div>
-    <h5 class="">Main Job</h5>
-      
-        <div class="self-wrap">
-      <div class="self-history-items">Web Designer </div>
-      <div class="self-history"><font-awesome-icon :icon="['fas', 'arrow-right']" /></div>
-      <div class="self-history-items">Experience Designer / SE</div>
-      <div class="self-history"><font-awesome-icon :icon="['fas', 'arrow-right']" /></div>
-      <div class="self-history-items">UX Designer </div>
-  </div>
 
-  <div class="self-wrap">
-      <div class="about-items">UX Designer <p style="font-weight:bold;color:aliceblue;font-size:42px; margin-top:60px; margin-left:74px;">体験価値</p></div>
-      <div class="about-items">UX Researcher<p style="font-weight:bold;color:aliceblue;font-size:42px; margin-top:60px; margin-left:40px;">調査 / 理解</p></div>
-      <div class="about-items">Front Engineering<p style="font-weight:bold;color:aliceblue;font-size:42px; margin-top:60px; margin-left:122px;">技術</p></div>
-  </div>
+    <h4 class="subtitle4">Work History</h4>
+    <ol class="timeline-003">
+        <li class="prev">Coding</li>
+        <li class="prev">Web Designer</li>
+        <li class="prev">Experience Designer / SE</li>
+        <li class="current">UX Designer</li>
+        <li>Future</li>
+    </ol>
+    
+  
+    <div class="self-wrap">
+      <div class="my-history">
+      <div class="self-history-items">User Research</div>
+      <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
+      <div class="self-history-items">User Research</div>
+      <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
+      <div class="self-history-items">User Research</div>
+    </div>
+    </div>
 
-    <p class="about-txt">上記三本柱で、仕事をしてきました。UX Consultantとして、もっと経験を積みたいと思っています。<br>
+
+
+    <p class="about-txt">上記三本柱で、仕事をしてきました。<br>将来はUX Consultantや、プロダクトやサービス全体の専門家として、もっと経験を積みたいと思っています。<br>
         興味があるのは、DXや業務改善、労働改善からの → 経営改善アプローチです。<br>
         チームメンバーとコミュニケーションをとりながらプロダクト改善、プロダクト開発をしていきたいです。<br>
         理想の働き方はリモートワークで、海外からでも仕事をできるにようになりたいです。<br>
