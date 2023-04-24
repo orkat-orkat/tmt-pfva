@@ -1,17 +1,15 @@
 
 
 <template>
-  <h4 class="subtitle1">Recent Project</h4>
+  <h4 class="subtitle1">Recent Project List</h4>
   <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">UX Designer</h5>
-        <ul class="about-box-list">
-            <li>＜2022＞新製品開発に参画 / Participate in new product development</li>
-            <li>新製品のUX体験開発</li>
-            <li>＜2021＞金融サイト改善に関するヒューリスティック調査などのユーザー調査</li>
-            <li>＜2021＞ドローン捜査用画面、車配車アプリなどのUI開発</li>
+        <h5 class="about-sub-title">Project List</h5>
+        <ul class="about-box-list project-ov">
+            <li>[Sony]次世代車載製品のUX体験開発に参画<br>Participated in new product development</li>
+            <li>[富士ソフト]ベンチャー企業の金融サイト改善に関するユーザー調査</li>
+            <li>[富士ソフト]ドローン操作用画面、車の配車アプリなどのUI開発</li>
         </ul>
-        <p>幅広く経験できたことが糧になっています</p>
       </div>
       <div class="self-items3">
         <h5 class="about-sub-title">対象製品、サービス</h5>
@@ -19,21 +17,71 @@
             <li>次世代車載製品</li>
             <li>MDR(ヘッドホン、音楽アプリ、ハブアプリ)</li>
             <li>社内UX人材教育資料作成</li>
+            <li>ドローン用UI開発</li>
+        </ul>
+      </div>
+      <div class="self-items3">
+        <h5 class="about-sub-title">UX Researcher / UX Designer</h5>
+        <ul class="about-box-list">
+            <li>ヒューリスティック調査</li>
+            <li>デザインリサーチ</li>
+            <li>競合リサーチ</li>
+            <li>人材開発資料作成</li>
+            <li>デザインシステム作成</li>
         </ul>
       </div>
   </div>
 
   <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Experience Designer</h5>
-        <ul class="about-box-list">
-            <li>Experience Designer</li>
-            <li>＜2022＞新製品開発に参画 / Participate in new product development</li>
+        <h5 class="about-sub-title">Project List</h5>
+        <ul class="about-box-list project-ov">
+            <li>マイクロソフトの製品、技術を使い、多くの企画に参画。</li>
+            <li>大手石油会社内部システム刷新</li>
+            <li>[UD Truck]のCMS開発をユーザーリサーチ（インタビュー含む）などの上流工程から参画</li>
+            <li>[郵政] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</li>
+            <li>[KOMATSU] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、画面や提案書を作成</li>
+            <li>[神明] 農業生産管理システム構築</li>
+            <li>[UNIQRO] ユニクロ社内の人材開発教材アプリと、従業員用のアプリを作成</li>
+            <li>[社内] 社内プロジェクトでVR開発、外国人従業者の相談をサポート</li>
         </ul>
-        <p>幅広く経験できたことが糧になっています</p>
       </div>
       <div class="self-items3">
-        <h5 class="about-sub-title">対象製品、サービス</h5>
+        <h5 class="about-sub-title">経験業界、経験フェーズ</h5>
+        <ul class="about-box-list">
+            <li>車載製品</li>
+            <li>農業業界でのIoT利用のためのPoC</li>
+            <li>大規模PCマイグレーション</li>
+            <li>物流会社のシステム更改に関するテストフェーズ</li>
+            <li>商社のイントラ設計</li>
+        </ul>
+      </div>
+
+      <div class="self-items3">
+        <h5 class="about-sub-title">Experience Designer</h5>
+        <ul class="about-box-list">
+            <li>O365移行</li>
+            <li>画面設計</li>
+            <li>PoC</li>
+            <li>要件定義</li>
+            <li>要求分析</li>
+            <li>リーダー経験</li>
+            <li>チーム開発経験</li>
+        </ul>
+      </div>
+  </div>
+
+  <div class="self-wrap">
+      <div class="about-box">
+        <h5 class="about-sub-title">In-House Designer</h5>
+        <ul class="about-box-list">
+            <li>Experience Designer</li>
+            <li>[NHK]Make PR and advertise TV Programming on Internet </li>
+            <li>[NHK]Make PR and advertise TV Programming on Internet </li>
+        </ul>
+      </div>
+      <div class="self-items3">
+        <h5 class="about-sub-title">Web Designer</h5>
         <ul class="about-box-list">
             <li>車載製品</li>
             <li>MDR(ヘッドホン、音楽製品)</li>
@@ -42,36 +90,28 @@
       </div>
   </div>
 
+  <div class="output">
+  <h4 class="subtitle1">Output / Deliverables</h4>
   <div class="self-wrap">
-      <div class="about-box">
-        <h5 class="about-sub-title">Experience Designer</h5>
-        <ul class="about-box-list">
-            <li>Experience Designer</li>
-            <li>＜2022＞新製品開発に参画 / Participate in new product development</li>
-        </ul>
-        <p>幅広く経験できたことが糧になっています</p>
-      </div>
-      <div class="self-items3">
-        <h5 class="about-sub-title">対象製品、サービス</h5>
-        <ul class="about-box-list">
-            <li>車載製品</li>
-            <li>MDR(ヘッドホン、音楽製品)</li>
-            <li>社内UX人材教育資料作成</li>
-        </ul>
-      </div>
+    <div class="output-items">User Research</div>
+    <div class="output-items">Interview</div>
+    <div class="output-items">Worekshop</div>
+    <div class="output-items">Customer J Map</div>
+    <div class="output-items">KJ Method</div>
+    <div class="output-items">Wireflame</div>
+    <div class="output-items">BRD</div>
+    <div class="output-items">PoC</div>
   </div>
+</div>
 
   <div class="programming">
   <h4 class="subtitle1">Programming</h4>
   <div class="self-wrap">
-      
       <div class="self-items4">
-        <h5 class="about-sub-title">Design </h5>
+        <h5 class="about-sub-title">Frontengineering</h5>
         <ul class="about-box-list">
-            <li>FW</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JS</li>
+            <li>Framework</li>
+            <li>Vue, Bootstrap, etc</li>
         </ul>
       </div>
       <div class="about-box">
@@ -80,7 +120,23 @@
             <li>Frontengineer</li>
             <li>My interest towords user's look and feel. So I took time for more CSS and HTML and Js for UI.</li>
         </ul>
-        <p>幅広く経験できたことが糧になっています</p>
+      </div>
+  </div>
+  <div class="self-wrap">
+      <div class="self-items4">
+        <h5 class="about-sub-title">Understanding </h5>
+        <ul class="about-box-list">
+            <li>MS Ecosystems</li>
+            <li>Iaas, Saas, Paas, AI Platform</li>
+        </ul>
+      </div>
+      <div class="about-box">
+        <h5 class="about-sub-title">As a SE</h5>
+        <ul class="about-box-list">
+            <li>Iaas：Azure</li>
+            <li>Paas：Power Platform (データ分析、自動化ツール)</li>
+            <li>Saas：Dynamic365(CRM、ERP)、Office365(Microsoft365)</li>
+        </ul>
       </div>
   </div>
   

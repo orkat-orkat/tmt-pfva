@@ -13,10 +13,10 @@ import Skills from '@/pages/Skills.vue'
     <ul class="cv-list">
       <li class="list-short-text">2022年</li>
       <li class="list-short-text">Fujisoft : System Integrator</li>
-      <li class="list-long-text">UX Design at Sony</li>
+      <li class="list-long-text">UX Design at Sony HCD Division</li>
     </ul>
     <ul class="cv-list">
-      <li class="list-short-text">2021年-2014年</li>
+      <li class="list-short-text">2020年-2014年</li>
       <li class="list-short-text">Avanade : System Integrator</li>
       <li class="list-long-text">Experience Designer</li>
     </ul>
@@ -31,7 +31,7 @@ import Skills from '@/pages/Skills.vue'
 
     <h6 class="subtitle4 education">Education</h6>
     <ul class="cv-list">
-      <li class="list-short-text">XXXX年</li>
+      <li class="list-short-text">2021年</li>
       <li class="list-short-text">School</li>
       <li class="list-long-text">School内容</li>
     </ul>

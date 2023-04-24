@@ -71,7 +71,6 @@
 
     <h6 class="subtitle4 other">Other Design Tools</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'a']" class="fa-pull-left"/>Affinity</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'm']" class="fa-pull-left"/>Miro</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'figma']" class="fa-pull-left"/>Figma</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'book']" class="fa-pull-left"/>Books</li>

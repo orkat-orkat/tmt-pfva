@@ -2,21 +2,20 @@
   <div class="contents">
   <h4 class="subtitle1">Top</h4>
   <div class="self-wrap">
-    <ul class="about-box-list">
-            <li>XXXのポートフォリオサイトです。</li>
-            <li>東京に住んでいます。</li>
+    <ul class="top-box-list">
+            <li>Tommy's Portofolio</li>
+            <li>I live in Tokyo.</li>
+            <li>I Love design, technology and make people happy.</li>
         </ul>
 
   </div>
 
-  <p class="about-txt">このサイトはDesktopのみ対応しています。<br >
+  <p class="about-txt">このサイトはDesktop表示のみ対応しています。<br >
        モバイル対応そのうちやりたいと思っています。<br>
        また、このサイトはVue3 を使って構築しました。
   </p>
 
-    <p class="about-txt">Sorry, This website don't use any css-frameworks, so it does not appropreate to see from smmartphone at this moment. <br >
-        I will fix it near future. I am thinking to use tailwindcss or vuetify.<br>
-    </p>
+ 
  
 
 
@@ -24,17 +23,18 @@
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
     <li class="">[2023]</li>
+    <li class="list-history-items">April.24 -- よく考えた結果、SP対応ページは別のサイトにすることにしました。</li>
     <li class="list-history-items">April.21 -- CSSを変更しました。SP対応をすっかり忘れていました。本当に忘れていました。</li>
-    <li class="list-history-items">April.13 -- Vueに手を出してしまったので頑張って理解しようとしている。</li>
-    <li class="list-history-items">April.11 -- ポートフォリオを作成開始しました。Netfrlyを知る。便利。</li>
+    <li class="list-history-items">April.13 -- 以前断念したVueに手を出してしまったので頑張って理解しようとしている。</li>
+    <li class="list-history-items">April.11 -- ポートフォリオを作成開始しました。Netfrlyを知る。便利。でもNetfrlyが用意している
+      Vue3はうまくいかなかった。（Memo）</li>
     <li class="">[2022]</li>
     <li class="list-history-items">前のデザインも気に入っていたけれど、もっと手軽に更新したいと思い引越しの予定を立てた</li>
-    <li class="">[2021]</li>
-    <li class="">[2020]</li>
-    <li class="list-history-items">引越し</li>
 </ul>
 
-
+<p class="about-txt">Sorry, This website don't use any css-frameworks, so it does not appropreate to see from smmartphone at this moment. <br >
+        I will fix it near future. I am thinking to use tailwindcss or vuetify.<br>
+    </p>
 
   </div><!-- contents-->
   

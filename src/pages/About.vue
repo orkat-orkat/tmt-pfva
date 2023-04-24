@@ -8,8 +8,10 @@ import Projects from '@/pages/Projects.vue'
   <h4 class="subtitle1">About</h4>
   <div class="self-wrap">
   <ul class="about-txt">
-            <li>これまで行ってきた仕事や、仕事内容について書いています。</li>
-            <li>いつも大変でしたが、楽しかったです。</li>
+            <li>これまで行ってきた仕事や、仕事内容について忘備録を兼ねてリストアップしています。</li>
+            <li>主にB to B に関する幅広いWeb制作、アプリ制作の制作経験があります。MSOffice, Adobe製品を使うことができます。
+            <br>プロトタイプ作成には主にXDを使い、プロジェクトによりMiroなどを使いデータを収集することもあります。
+</li>
         </ul>
     </div>
 
@@ -19,7 +21,7 @@ import Projects from '@/pages/Projects.vue'
         <li class="prev">Web Designer</li>
         <li class="prev">Experience Designer / SE</li>
         <li class="current">UX Designer</li>
-        <li>Future</li>
+        <li>NEXT STAGE</li>
     </ol>
     
   
@@ -35,26 +37,17 @@ import Projects from '@/pages/Projects.vue'
 
 
 
-    <p class="about-txt">上記三本柱で、仕事をしてきました。<br>将来はUX Consultantや、プロダクトやサービス全体の専門家として、もっと経験を積みたいと思っています。<br>
+    <p class="about-txt">上記三本柱で、仕事をしてきました。<br>将来はプロダクトやサービス全体の専門家として、もっと経験を積みたいと思っています。<br>
         興味があるのは、DXや業務改善、労働改善からの → 経営改善アプローチです。<br>
         チームメンバーとコミュニケーションをとりながらプロダクト改善、プロダクト開発をしていきたいです。<br>
         理想の働き方はリモートワークで、海外からでも仕事をできるにようになりたいです。<br>
     </p>
  
-  <h4 class="subtitle1">Output</h4>
-  <div class="self-wrap">
-    <div class="output-items">User Research</div>
-    <div class="output-items">Interview</div>
-    <div class="output-items">Customer J Map</div>
-    <div class="output-items">KJ Method</div>
-    <div class="output-items">Wireflame</div>
-    <div class="output-items">PoC</div>
-  </div>
-
   <!--- Project pageから-->
   <div class="about-project">
     <Projects />
   </div>
+
 
  
 
