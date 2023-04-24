@@ -76,6 +76,8 @@ import Skills from '@/pages/Skills.vue'
       <li class="list-long-text">Certified</li>
     </ul>
 
+  
+
     <hr style="border:none; margin:4em; ">
   <div class="cv-skills">
     <Skills />

@@ -106,10 +106,10 @@ html, body {min-height: 100vh;}
   max-width: 1280px;
   min-width:50%;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
   background:#F5F8FC ; 
   width: 100%;
+  padding: 2%;
 }
 
 
@@ -117,7 +117,11 @@ html, body {min-height: 100vh;}
 @media screen and (max-width: 992px) {
   #app {
     background-color: blue;
+    width: 100%;
+    padding: 2%;
+    color:#ccc;
   }
+  .title a{color:#ccc}
   .wrap{
     display: flex;
     flex-direction:column;
@@ -134,10 +138,19 @@ html, body {min-height: 100vh;}
   .sub-contents{
     width: 100%;
   }
+  .subtitle4{
+    margin:0
+  }
+  
+  .cv-list li {color:#ccc}
   
   .green{
     color: green;
   }
+
+  h4.subtitle1{color:#f9f9f9}
+  .subtitle4{color:azure}
+  .copyright{color:darkgrey}
 }
 
 /* On screens that are 600px or less, set the background color to olive */
@@ -145,6 +158,8 @@ html, body {min-height: 100vh;}
   #app {
     background-color: olive;
     color:#ccc;
+    width: 100%;
+    padding:2%;
   }
 
   .wrap{
@@ -164,6 +179,10 @@ html, body {min-height: 100vh;}
   
   .sub-contents{
     width: 100%;
+  }
+
+  .subtitle4{
+    margin:0
   }
   
   .green{

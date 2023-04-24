@@ -26,20 +26,20 @@ import Projects from '@/pages/Projects.vue'
 
     <div class="self-wrap">
         <div class="self-items5">
-        User Research（ユーザー理解）
+        User Research <br>（ユーザー理解）
       </div>
       
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
       <div class="self-items5">
-        User Experience（体験構築）
+        User Experience<br>（体験構築）
       </div>
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
       <div class="self-items5">
-        要件定義(Business Requirement)
+        Business Requirement<br>(要件定義)
       </div>
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
       <div class="self-items5">
-        Technology（技術）
+        Technology<br>（技術）
       </div>
   </div>
 
@@ -56,27 +56,27 @@ import Projects from '@/pages/Projects.vue'
 
 
  
-
+  <h4 class="subtitle1">Certs</h4>
   <div class="self-wrap">
-      <div class="self-items5">
+    <div class="self-items5">
           <div class="cardList_thumb">
-              絵が入る
+            <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
           </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
+          <h4 class="cardList_title">Test in color coordination.</h4>
+          <p>Self Study and Project Use</p>
+    </div>
 
 
       <div class="self-items5">
           <div class="cardList_thumb">
-              絵が入る
+              IT Passsport 
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
+          <p class="">Self Study and Project Use</p>
       </div>
       <div class="self-items5">
           <div class="cardList_thumb">
-              絵が入る
+              Toeic 755
           </div>
           <h4 class="cardList_title">XXXXXX</h4>
           <p>独学と！プロジェクト</p>

@@ -57,7 +57,7 @@
       <li class="list-short-text skill-name">Ionic</li>
       <li class="list-short-text">Project Use </li>
       <li class="list-long-text">Not many times.</li>
-    </ul>s
+    </ul>
 
     <h6 class="subtitle4 other">Other Tools</h6>
     <ul class="cv-list">
@@ -80,24 +80,18 @@
 
     <hr style="border:none; margin:4em;">
 
-
+    <h4 class="subtitle1">Certs</h4>
     <div class="self-wrap">
 
         <div class="self-items5">
           <div class="cardList_thumb">
-            <img src="@/assets/img/DesignThinking_cert.jpg" alt="" class="" width="80%">
+            <img src="@/assets/img/DesignThinking_cert.jpg" alt="" class="" width="70%">
           </div>
           <h4 class="cardList_title">Design Thinking Course</h4>
           <p>Self Study and Project Use</p>
       </div>
 
-        <div class="self-items5">
-          <div class="cardList_thumb">
-            <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
-          </div>
-          <h4 class="cardList_title">Test in color coordination.</h4>
-          <p>Self Study and Project Use</p>
-      </div>
+        
 
         <div class="self-items5">
           <div class="cardList_thumb">

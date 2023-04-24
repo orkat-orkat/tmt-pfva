@@ -36,14 +36,14 @@
       <div class="about-box">
         <h5 class="about-sub-title">Project List</h5>
         <ul class="about-box-list project-li">
-            <li>マイクロソフトの製品、技術を使い、多くの企画に参画。</li>
-            <li>大手石油会社内部システム刷新</li>
-            <li>[UD Truck]CMS開発をUX上流工程から参画</li>
+            <li>マイクロソフトの製品、技術を使い、多くのプロジェクトに参画。</li>
+            <li>[石油] 大手石油会社内部システム刷新</li>
+            <li>[UD Truck] CMS開発をUX上流工程から参画</li>
             <li>[郵政] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</li>
             <li>[KOMATSU] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、画面作成や提案書を作成</li>
             <li>[神明] 農業生産管理システム構築</li>
-            <li>[UNIQRO] ユニクロ社内の人材開発教材アプリと、従業員用のアプリを作成</li>
-            <li>[小学館]教育のICTアプリ</li>
+            <li>[UNIQLO] ユニクロ社内の人材開発教材アプリと、従業員用のアプリを作成</li>
+            <li>[小学館] 小学生向けの学校用ICTアプリ</li>
             <li>[社内] 社内プロジェクトでVR開発、外国人従業者の相談をサポート</li>
         </ul>
       </div>
@@ -75,14 +75,14 @@
 
   <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Project List</h5>
+        <h5 class="about-sub-title">Old Project List</h5>
         <ul class="about-box-list project-li">
             <li>[NHK]Make PR and advertise TV Programming on Internet </li>
             <li>[Marui] Create EC Webistes and Teaser Site</li>
             <li>Create many Websites</li>
         </ul>
       </div>
-      <div class="self-items3">
+      <div class="self-items3 self-item-sub2">
         <h5 class="about-sub-title">In-House Web Designer Coding</h5>
         <ul class="about-box-list project-skills">
             <li>Web Design / Coding</li>
@@ -94,22 +94,23 @@
   </div>
 
 <div class="output">
-  <h4 class="subtitle1">Output / Deliverables</h4>
-<div class="self-wrap">
-  <div class="output-items">
-        User Research
-      </div>
+  <h4 class="subtitle1">Output</h4>
+    <div class="self-wrap">
       <div class="output-items">
-        Interview
-      </div>
-      <div class="output-items">
-        Worekshop
-      </div>
-      <div class="output-items">
-        Customer J Map
-      </div>
+            User Research
+          </div>
+          <div class="output-items">
+            Interview
+          </div>
+          <div class="output-items">
+            Worekshop
+          </div>
+          <div class="output-items">
+            Customer Journey Map
+          </div>
     </div>
-      <div class="self-wrap">
+    <h4 class="subtitle4">Deliverables</h4>
+    <div class="self-wrap" style="border-bottom: 1px dashed rgb(0, 206, 229); padding-bottom: 2em;">
         <div class="output-items">
         KJ Method
       </div>
@@ -117,12 +118,28 @@
         Wireflame
       </div>
       <div class="output-items">
-        BRD
+        Business Requirements
       </div>
       <div class="output-items">
         PoC
       </div>
     </div>
+    <h4 class="subtitle4">Experienced Position</h4>
+    <div class="self-wrap">
+    <div class="position-items">
+        PMO
+    </div>
+    <div class="position-items">
+        Tester
+      </div>
+    <div class="position-items">
+        Business Development
+      </div>
+    <div class="position-items">
+       
+      </div>
+    </div>
+
   </div>
 
 
