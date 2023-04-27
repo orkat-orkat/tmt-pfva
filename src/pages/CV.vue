@@ -31,20 +31,20 @@ import Skills from '@/pages/Skills.vue'
     <h6 class="subtitle4 education">Education</h6>
     <ul class="cv-list">
       <li class="list-short-text">2021年</li>
-      <li class="list-short-text">School</li>
-      <li class="list-long-text">School内容</li>
+      <li class="list-short-text">キカガク Kikagaku LongTerm</li>
+      <li class="list-long-text">AI / Deep Learning study course finished</li>
     </ul>
 
     <ul class="cv-list">
       <li class="list-short-text">2021年</li>
-      <li class="list-short-text">School</li>
-      <li class="list-long-text">School内容</li>
+      <li class="list-short-text">大原学園 経営管理基礎科(中小企業診断士準備)修了</li>
+      <li class="list-long-text">SME management consultants study finished</li>
     </ul>
 
     <ul class="cv-list">
-      <li class="list-short-text">2021年</li>
-      <li class="list-short-text">School</li>
-      <li class="list-long-text">School内容</li>
+      <li class="list-short-text">2002年</li>
+      <li class="list-short-text">University of Surrey </li>
+      <li class="list-long-text">Internet Multimedia and Computing</li>
     </ul>
   </div>
 

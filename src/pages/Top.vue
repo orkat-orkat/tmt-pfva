@@ -10,6 +10,19 @@
 
   </div>
 
+  <ul class="top-box-list" style="margin-top:2em;">
+    <li> Knowledge /How can I contribute. </li>
+
+    <li>Business App UI/UX Designer </li>
+    <li>Create Prototypes </li>
+    <li>Design Thinking </li>
+    <li>User Research (User Test, User ) </li>
+    <li>Understanding Front Engineering </li>
+    <li>Understanding Digital Platforms </li>
+    <li>Understanding Web/App Developping </li>
+    <li>Understanding Project Management</li>
+  </ul>
+
   <p class="about-txt">このサイトはDesktop表示のみ対応しています。<br >
        モバイル対応そのうちやりたいと思っています。<br>
        また、このサイトはVue3 を使って構築しました。
