@@ -1,21 +1,25 @@
 <template>
     <div class="contents">
       <h4 class="subtitle1">English Summary Page </h4>
+      <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'Top' }" >Back</RouterLink> To Japanese Top page</small>
+      
     <div class="self-wrap">
       <div class="self-items">CV</div>
       <div class="self-items">2</div>
       <div class="self-items">3</div>
   </div>
 
-  <div><RouterLink :to="{ name: 'Top' }">Back</RouterLink>To japanese page</div>
+  
 
   <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Project List</h5>
+        <h5 class="about-sub-title">Recent Project List</h5>
         <ul class="about-box-list project-li">
-            <li>[Sony]次世代車載製品と、音楽アプリのUX体験開発に参画<br>Participated in new product development</li>
-            <li>[Fuji Soft] ベンチャー企業の金融サイト改善に関するユーザー調査</li>
-            <li>[Fuji Soft] ドローン操作用画面、車の配車アプリなどのUI開発</li>
+            <li>[Sony] Participation in the development of next-generation in-vehicle products.</li>
+            <li>[Sony] Participation in the development of UX experiences for music apps.</li>
+            <li>[Fuji Soft] User Rsearch on improving venture finance websites.</li>
+            <li>[Fuji Soft] UI development for drone operation screens</li>
+            <li>[Fuji Soft] UI Development for Car dispatch apps etc.</li>
         </ul>
       </div>
       <div class="self-items3 self-item-sub1">
@@ -30,18 +34,18 @@
       <div class="self-items3 self-item-sub2">
         <h5 class="about-sub-title">UX Researcher / UX Designer</h5>
         <ul class="about-box-list project-skills">
-            <li>Heulistic Research</li>
-            <li>Design Research</li>
-            <li>競合Research</li>
-            <li>人材開発Documentation</li>
-            <li>デザインシステム作成</li>
+            <li>Heuristic research</li>
+            <li>Design research</li>
+            <li>Competitive analysis</li>
+            <li>Human Resource Development</li>
+            <li>Create Design System</li>
         </ul>
       </div>
   </div>
 
     <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Project List</h5>
+        <h5 class="about-sub-title">Recent Project List</h5>
         <ul class="about-box-list project-li">
             <li>Participated in many projects using Microsoft products and technologies.</li>
             <li>[Oil Company] Major oil company internal systems renewal</li>
@@ -59,15 +63,6 @@
         <ul class="about-box-list project-prod">
             <li>Car / Automotive products</li>
             <li>Agriculture</li>
-            <li>Logistics</li>
-            <li>Education</li>
-            <li>Company Portal System renewal</li>
-            <li>etc...</li>
-        </ul>
-        <h5 class="about-sub-title">Project Phase / Project Name</h5>
-        <ul class="about-box-list project-prod">
-            <li>PoC</li>
-            <li>Test Phase</li>
             <li>Logistics</li>
             <li>Education</li>
             <li>Company Portal System renewal</li>
@@ -159,5 +154,6 @@
     </div>
 
   </div>
+  <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'Top' }" >Back</RouterLink> To Japanese Top page</small>
   </div>
   </template>

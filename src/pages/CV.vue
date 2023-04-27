@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Skills from '@/pages/Skills.vue'
-
 </script>
 
 <template>
@@ -23,8 +22,8 @@ import Skills from '@/pages/Skills.vue'
 
     <ul class="cv-list">
       <li class="list-short-text">untill 2013年</li>
-      <li class="list-short-text">BP-net : Web Creators</li>
-      <li class="list-long-text">Web Designer at NHK (NHK World)</li>
+      <li class="list-short-text">BP-net : Web production</li>
+      <li class="list-long-text">Web Designer, Director at NHK (NHK World)</li>
     </ul>
 
     <hr style="border:none; margin:4em; ">
@@ -51,14 +50,18 @@ import Skills from '@/pages/Skills.vue'
 
   <h6 class="subtitle4 education">Certification</h6>
     <ul class="cv-list">
-      <li class="list-short-text">TOEIC 755 ---- Read / Writing / Speaking</li>
+      <li class="list-short-text">TOEIC 755 </li>
+      <li class="list-short-text">IELTS 6.0</li>
+      <li class="list-short-text"></li>
     </ul>
 
     <ul class="cv-list">
-      <li class="list-long-text">IELTS 6.0 ---- Read / Writing / Speakin</li>
+      <li class="list-short-text">AWS </li>
+      <li class="list-short-text">Azure</li>
+      <li class="list-short-text">MS HTML5 and CSS3 Japascript</li>
     </ul>
 
-  <hr style="border:none; margin:4em; ">
+<hr style="border:none; margin:4em; ">
 
   <h4 class="subtitle1 cv-skills">Design Certificate</h4>
     <h6 class="subtitle4 certs">HCD (人間中心設計専門家（Certified Human Centered Design Professional)）</h6>
@@ -88,8 +91,6 @@ import Skills from '@/pages/Skills.vue'
       <li class="list-short-text">Google Analytics</li>
       <li class="list-long-text">Certified</li>
     </ul>
-
-  
 
     <hr style="border:none; margin:4em; ">
   <div class="cv-skills">

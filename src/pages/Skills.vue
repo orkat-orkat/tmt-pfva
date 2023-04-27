@@ -16,9 +16,9 @@
       <li class="list-long-text">Certificate</li>
     </ul>
     <ul class="cv-list">
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>Word / Excel / Powerpoint / Teams</li>
-      <li class="list-short-text">Project Use / Self Study</li>
-      <li class="list-long-text">more than 10years</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>MS Office Tools</li>
+      <li class="list-short-text">Word / Excel / Powerpoint / Teams</li>
+      <li class="list-long-text">More than 10years</li>
     </ul>
 
     <h6 class="subtitle4 skills">Amazon</h6>
@@ -62,19 +62,18 @@
     <h6 class="subtitle4 other">Other Tools</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Git</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>VS Code</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'confluence']" class="fa-pull-left"/>Confluence</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 's']" class="fa-pull-left"/>Subversion</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>VS Code</li>
     </ul>
       <ul class="cv-list">
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Git</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'slack']" class="fa-pull-left"/>Slack</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'windows']" class="fa-pull-left"/>Teams</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>OneDrive</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'o']" class="fa-pull-left"/>OneDrive</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Zoom</li>
     </ul>
 
     <ul class="cv-list">
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Zoom</li>
     </ul>
 
     <h6 class="subtitle4 other">Other Design Tools</h6>

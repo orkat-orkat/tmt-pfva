@@ -13,6 +13,12 @@
     margin-top: 1em;;
 }
 
+.subtitle-eng{
+  text-align: right;
+  font-weight: bold;
+  display: block;
+}
+
 .subtitle2{
     font-size: 2em;
     font-family: 'Noto Sans Japanese';
@@ -499,7 +505,7 @@ color: green;
    ul.header-list {
      display: flex;
      justify-content: flex-start;
-     width: 100%;
+     width: 99%;
      padding:2% 0 0 2%;
    }
    
