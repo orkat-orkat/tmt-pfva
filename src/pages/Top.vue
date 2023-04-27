@@ -23,6 +23,7 @@
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
     <li class="">[2023]</li>
+    <li class="list-history-items">April.27 -- SPはとりあえず表示できるまでに修正・・・色などは後で変更しよう。大枠が崩れないようにした。細かい修正は、今後行う。</li>
     <li class="list-history-items">April.24 -- よく考えた結果、SP対応ページは別のサイトにすることにしました。</li>
     <li class="list-history-items">April.21 -- CSSを変更しました。SP対応をすっかり忘れていました。本当に忘れていました。</li>
     <li class="list-history-items">April.13 -- 以前断念したVueに手を出してしまったので頑張って理解しようとしている。</li>

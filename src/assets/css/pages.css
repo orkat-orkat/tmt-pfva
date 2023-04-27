@@ -64,6 +64,16 @@
     color: #ccc;
 }
 
+.self-items:first-child{
+  margin-left:0;
+}
+
+.self-items:last-child{
+  margin-right:0;
+}
+
+
+
 .self-items2{
     display: flex;
     justify-content: center;
@@ -81,9 +91,8 @@
     flex-direction: column; /* 縦に並べる*/
     margin:0 0 0 0.4em;
     width: 30%;
-    background-color: #f46303;
+    /*background-color: #f46303; murasaki */
     border-radius: 0.5em;
-    color: #ccc;
     padding:1em;
 }
 
@@ -151,11 +160,14 @@
 }
 
 .self-item-sub1{
-  background-color:#012c40
+  /*background-color:#012c40; */
+  background-color:#8db0c1;
 }
 
 .self-item-sub2{
-  background-color:#350155;
+  /*background-color:#350155;*/
+  background-color: #86cfd2;
+
 }
 
 .self-history{
@@ -256,7 +268,8 @@
 
 
 .about-box{
-  background: #5f5f5f;
+  background-color: #d7d7d7;
+  /*background: #5f5f5f;*/
   border-radius: 0.5em;
   flex-wrap: wrap;
   align-items: flex-start;
@@ -268,7 +281,7 @@
 .about-sub-title{
   font-weight: bold;
   text-align: left;
-  color:#ccc;
+  /*color:#ccc;*/
   width: 100%;
   margin-bottom: 0.4em;
   border-bottom: 1px dashed rgb(0, 206, 229);
@@ -277,7 +290,7 @@
 
 .about-box-list{
   text-align: left;
-  color: #e7e7e7;
+  /*color: #e7e7e7;*/
   font-size: 0.9em;
 }
 
@@ -464,7 +477,7 @@ color: green;
 /*Header */
 .title{
     width:100%;
-    padding:2%;
+    padding:2% 0;
     text-align: left;
     font-size: 32px;
     font-weight: bold;
@@ -481,7 +494,6 @@ color: green;
    
    .nav{
      width: 100%;
-     padding: 2%;
    }
    
    ul.header-list {
@@ -593,21 +605,26 @@ color: green;
 
   .workexperience{
     color:cadetblue;
+    margin-bottom:0.4em;
   }
   .education{
     color: cadetblue;
+    margin-bottom:0.4em;
   }
 
   .certs{
     color: #6f5fa0;
+    margin-bottom:0.4em;
   }
 
   .skills{
     color:#a05f83;
+    margin-bottom:0.4em;
   }
 
   .other{
     color:#a0895f;
+    margin-bottom:0.4em;
   }
  
 

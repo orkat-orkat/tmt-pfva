@@ -61,12 +61,20 @@
 
     <h6 class="subtitle4 other">Other Tools</h6>
     <ul class="cv-list">
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Git</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'confluence']" class="fa-pull-left"/>Confluence</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 's']" class="fa-pull-left"/>Subversion</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>VS Code</li>
+    </ul>
+      <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Git</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'slack']" class="fa-pull-left"/>Slack</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'windows']" class="fa-pull-left"/>Teams</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>OneDrive</li>
+    </ul>
+
+    <ul class="cv-list">
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Zoom</li>
     </ul>
 
     <h6 class="subtitle4 other">Other Design Tools</h6>
@@ -82,7 +90,6 @@
 
     <h4 class="subtitle1">Certs</h4>
     <div class="self-wrap">
-
         <div class="self-items5">
           <div class="cardList_thumb">
             <img src="@/assets/img/DesignThinking_cert.jpg" alt="" class="" width="70%">

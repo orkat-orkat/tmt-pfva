@@ -49,6 +49,15 @@ import Skills from '@/pages/Skills.vue'
     </ul>
   </div>
 
+  <h6 class="subtitle4 education">Certification</h6>
+    <ul class="cv-list">
+      <li class="list-short-text">TOEIC 755 ---- Read / Writing / Speaking</li>
+    </ul>
+
+    <ul class="cv-list">
+      <li class="list-long-text">IELTS 6.0 ---- Read / Writing / Speakin</li>
+    </ul>
+
   <hr style="border:none; margin:4em; ">
 
   <h4 class="subtitle1 cv-skills">Design Certificate</h4>
@@ -73,6 +82,10 @@ import Skills from '@/pages/Skills.vue'
     <ul class="cv-list">
       <li class="list-short-text skill-name">UC Class</li>
       <li class="list-short-text">Universal Design</li>
+      <li class="list-long-text">Certified</li>
+    </ul>
+    <ul class="cv-list">
+      <li class="list-short-text">Google Analytics</li>
       <li class="list-long-text">Certified</li>
     </ul>
 
