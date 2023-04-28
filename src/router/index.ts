@@ -60,6 +60,22 @@ const routes = [
     }
   },
   {
+    path: '/Booklist',
+    name: 'Booklist',
+    component: async () => {
+      const booklist = await import('@/pages/Booklist.vue');
+      return booklist;
+    }
+  },
+  {
+    path: '/UXStudy',
+    name: 'UXStudy',
+    component: async () => {
+      const uxstudy = await import('@/pages/UXStudy.vue');
+      return uxstudy;
+    }
+  },
+  {
     path: '/Future',
     name: 'Future',
     component: async () => {

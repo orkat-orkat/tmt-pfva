@@ -33,8 +33,6 @@
     <img src="@/assets/img/Mac-3devices.png" alt="design" class="" width="100%">
 </div>
 
-
-
 </div>
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
@@ -66,9 +64,13 @@
 
 .child {
   width: 100%;
+  background:white;
+  padding: 2em 0 ;
+  margin:2em 0;
 }
 
 .last-child {
   width: 100%;
+  background-color: antiquewhite;
 }
 </style>
