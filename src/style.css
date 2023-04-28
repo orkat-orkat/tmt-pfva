@@ -148,6 +148,8 @@ html, body {min-height: 100vh;}
     color: green;
   }
 
+  .bold{font-weight: bold;}
+
   h4.subtitle1{color:#f9f9f9}
   .subtitle4{color:azure}
   .copyright{color:darkgrey}

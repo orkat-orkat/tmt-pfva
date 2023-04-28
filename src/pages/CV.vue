@@ -26,7 +26,7 @@ import Skills from '@/pages/Skills.vue'
       <li class="list-long-text">Web Designer, Director at NHK (NHK World)</li>
     </ul>
 
-    <hr style="border:none; margin:4em; ">
+    <hr style="border:none; margin:2em; ">
 
     <h6 class="subtitle4 education">Education</h6>
     <ul class="cv-list">
@@ -61,7 +61,7 @@ import Skills from '@/pages/Skills.vue'
       <li class="list-short-text">MS HTML5 and CSS3 Japascript</li>
     </ul>
 
-<hr style="border:none; margin:4em; ">
+<hr style="border:none; margin:2em; ">
 
   <h4 class="subtitle1 cv-skills">Design Certificate</h4>
     <h6 class="subtitle4 certs">HCD (人間中心設計専門家（Certified Human Centered Design Professional)）</h6>
@@ -92,7 +92,7 @@ import Skills from '@/pages/Skills.vue'
       <li class="list-long-text">Certified</li>
     </ul>
 
-    <hr style="border:none; margin:4em; ">
+    <hr style="border:none; margin:2em; ">
   <div class="cv-skills">
     <Skills />
   </div>

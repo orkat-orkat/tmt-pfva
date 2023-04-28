@@ -9,8 +9,6 @@
       <div class="self-items">3</div>
   </div>
 
-  
-
   <div class="self-wrap">
       <div class="about-box">
         <h5 class="about-sub-title">Recent Project List</h5>

@@ -387,7 +387,7 @@
 }
 .cardList_title{
     text-align: center;
-    color: #006e60;
+    color: #eeeeee;
     padding-bottom: 10px;
     width: 100%;
 }
@@ -403,8 +403,18 @@ p{
 .top-box-list{
   text-align: left;
   color: #3c3c3c;
+  padding:2em 2em 0 2em;
 }
-
+.top-contents li{
+  line-height: 2em;
+  list-style-type: circle;
+  margin-left:2em;
+}
+.top-contents li:first-child{
+  font-weight: bold;
+  list-style: none;
+  margin-left:1em;
+}
 .top-txt{
     display: flex;
     flex-wrap: wrap;
@@ -570,10 +580,6 @@ color: green;
     justify-content: flex-start;
     width: 100%;
     color: #3f3f3f;
-  }
-
-  ul.cv-list:last-child { 
-    margin-bottom: 4em;
   }
 
   ul.cv-list{ 

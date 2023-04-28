@@ -59,6 +59,14 @@ const routes = [
       return english;
     }
   },
+  {
+    path: '/Future',
+    name: 'Future',
+    component: async () => {
+      const future = await import('@/pages/Future.vue');
+      return future;
+    }
+  },
   /* {
     path: '/Timeline',
     name: 'Timeline',
