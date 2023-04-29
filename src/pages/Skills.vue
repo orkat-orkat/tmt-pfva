@@ -13,7 +13,7 @@
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'cloud']" class="fa-pull-left"/>Azure</li>
       <li class="list-short-text">Deplpy Apps</li>
-      <li class="list-long-text">AZ-900 MS Azure Fundamentals</li>
+      <li class="list-long-text">Certificate</li>
     </ul>
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>MS Office Tools</li>
@@ -25,8 +25,7 @@
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'aws']" class="fa-pull-left"/>AWS</li>
       <li class="list-short-text">Self Study</li>
-      <li class="list-long-text">AWS
-        Cloud Practitioner</li>
+      <li class="list-long-text">Certificate</li>
     </ul>
 
     <h6 class="subtitle4 skills">Programming</h6>

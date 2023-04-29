@@ -30,7 +30,7 @@
 
   </div>
   <div class="child last-child">
-    <img src="@/assets/img/Mac-3devices.png" alt="design" class="" width="100%">
+    <img src="@/assets/img/3DevicesMock.png" alt="design" class="" width="80%">
 </div>
 
 </div>
@@ -72,5 +72,6 @@
 .last-child {
   width: 100%;
   background-color: antiquewhite;
+  text-align: center;
 }
 </style>

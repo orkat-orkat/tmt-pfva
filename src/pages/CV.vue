@@ -56,8 +56,8 @@ import Skills from '@/pages/Skills.vue'
     </ul>
 
     <ul class="cv-list">
-      <li class="list-short-text">AWS </li>
-      <li class="list-short-text">Azure</li>
+      <li class="list-short-text">AWS : AWS Cloud Practitioner</li>
+      <li class="list-short-text">Azure : AZ-900 MS Azure Fundamentals</li>
       <li class="list-short-text">MS HTML5 and CSS3 Japascript</li>
     </ul>
 

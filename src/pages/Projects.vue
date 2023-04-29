@@ -123,19 +123,22 @@
         PoC
       </div>
     </div>
-    <h4 class="subtitle4">Experienced Position</h4>
+    <h4 class="subtitle4">Experienced Position / Phase</h4>
     <div class="self-wrap">
     <div class="position-items">
         PMO
     </div>
     <div class="position-items">
-        Tester
+      Business Development
       </div>
     <div class="position-items">
-        Business Development
+        Test Phase
       </div>
     <div class="position-items">
-       
+       Marketing Phase
+      </div>
+      <div class="position-items">
+       Development Phase
       </div>
     </div>
 
