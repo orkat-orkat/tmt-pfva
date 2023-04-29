@@ -1,7 +1,7 @@
 <template>
   <h4 class="subtitle1">Recent Project List</h4>
   <p><RouterLink to="/English">English</RouterLink></p>
-  <div class="self-wrap">
+  <div class="self-wrap" style="margin-bottom: 3em;">
       <div class="about-box">
         <h5 class="about-sub-title">Project List</h5>
         <ul class="about-box-list project-li">
@@ -31,53 +31,88 @@
       </div>
   </div>
 
-  <div class="self-wrap">
-      <div class="about-box">
-        <h5 class="about-sub-title">Project List</h5>
-        <ul class="about-box-list project-li">
-            <li>マイクロソフトの製品、技術を使い、多くのプロジェクトに参画。</li>
-            <li>[石油] 大手石油会社内部システム刷新</li>
-            <li>[UD Truck] CMS開発をUX上流工程から参画</li>
-            <li>[郵政] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</li>
-            <li>[KOMATSU] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、重機と人のデータ表示画面や提案書を作成</li>
-            <li>[神明] 農業生産管理システム構築</li>
-            <li>[UNIQLO] ユニクロ社内の人材開発教材アプリと従業員用のトレーニング用アプリ作成</li>
-            <li>[小学館] 小学生向けの学校用ICTアプリ</li>
-            <li>[社内] 社内プロジェクトでVR開発、外国人従業者の相談をサポート</li>
-        </ul>
-      </div>
-      <div class="self-items3 self-item-sub1">
-        <h5 class="about-sub-title">Experience Industry / Phase</h5>
-        <ul class="about-box-list project-prod">
-            <li>車載製品</li>
-            <li>農業でIoT利用PoC</li>
-            <li>大規模PCマイグレーション</li>
-            <li>物流会社のシステム更改に関するテストフェーズ</li>
-            <li>商社のイントラ設計</li>
-            <li>教育のICTアプリ</li>
-        </ul>
-      </div>
-
-      <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">Assigned as Experience Designer</h5>
-        <ul class="about-box-list project-skills">
-            <li>画面設計</li>
-            <li>PoC</li>
-            <li>要件定義</li>
-            <li>要求分析</li>
-            <li>基本設計</li>
-            <li>単体テスト / 結合テスト</li>
-            <li>チーム開発経験</li>
-        </ul>
-      </div>
+  <div class="tbl_container about-sub-title">
+    <div class="tbl_box_1 br-1">Project List</div>
+    <div class="tbl_box_2">Industry</div>
+    <div class="tbl_box_3">Phase / Output</div>
+    <div class="tbl_box_3 br-2">Assigned as </div>
   </div>
+
+  <div class="tbl_container">
+    <div class="tbl_box_1">[石油] 大手石油会社内部システム刷新</div>
+    <div class="tbl_box_2">Oil Company</div>
+    <div class="tbl_box_3">Business Process Management</div>
+    <div class="tbl_box_3">PMO</div>
+  </div>
+
+  <div class="tbl_container touka">
+    <div class="tbl_box_1">[UD Truck] CMS開発をUX上流工程から参画</div>
+    <div class="tbl_box_2">Logistics / Truck </div>
+    <div class="tbl_box_3">/ UX /</div>
+    <div class="tbl_box_3">Experience Designer </div>
+  </div>
+
+  <div class="tbl_container">
+    <div class="tbl_box_1">[郵政] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</div>
+    <div class="tbl_box_2">Logistic / Intra /</div>
+    <div class="tbl_box_3">SE</div>
+    <div class="tbl_box_3">Tester / Sub-Leader</div>
+  </div>
+
+  <div class="tbl_container touka">
+    <div class="tbl_box_1">[KOMATSU] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、重機と人のデータ表示画面や提案書を作成</div>
+    <div class="tbl_box_2">Heavy equipment company / Intra /</div>
+    <div class="tbl_box_3">Business Apps / Screen layout/ PoC </div>
+    <div class="tbl_box_3">Experience Designer</div>
+  </div>
+
+  <div class="tbl_container">
+    <div class="tbl_box_1">[郵政] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</div>
+    <div class="tbl_box_2">Logistic / Intra /</div>
+    <div class="tbl_box_3">Test Phase / 単体テスト / 結合テスト</div>
+    <div class="tbl_box_3">Tester</div>
+  </div>
+
+  <div class="tbl_container touka">
+    <div class="tbl_box_1">[神明] 農業生産管理システム構築</div>
+    <div class="tbl_box_2">Agriculture / Business App / PoC</div>
+    <div class="tbl_box_3">Experience Designer / UX (Define - Prototype Phase)</div>
+    <div class="tbl_box_3">Experience Designer</div>
+  </div>
+
+  <div class="tbl_container">
+    <div class="tbl_box_1">[UNIQLO] ユニクロ社内の人材開発教材アプリと従業員用のトレーニング用アプリ作成</div>
+    <div class="tbl_box_2">Apparel / Clothes</div>
+    <div class="tbl_box_3">Business Apps / UX (Define Phase)</div>
+    <div class="tbl_box_3">Experience Designer </div>
+  </div>
+
+  <div class="tbl_container touka">
+    <div class="tbl_box_1">[小学館] 小学生向けの学校用ICTアプリ</div>
+    <div class="tbl_box_2">Education </div>
+    <div class="tbl_box_3">ICT Apps / UX (Define Phase)</div>
+    <div class="tbl_box_3">Experience Designer</div>
+  </div>
+
+  <div class="tbl_container">
+    <div class="tbl_box_1 br-3">[他] その他SEとして</div>
+    <div class="tbl_box_2">検索サイト、イントラサイトなどの設計フェーズで兼任</div>
+    <div class="tbl_box_3">要件定義、要求分析、 基本設計など</div>
+    <div class="tbl_box_3 br-4">SE</div>
+  </div>
+
 
   <div class="self-wrap">
       <div class="about-box">
         <h5 class="about-sub-title">Past Project List</h5>
-        <ul class="about-box-list project-li">
+        <ul class="about-box-list project-li" style="float:left;">
             <li>[NHK] Make PR and advertise TV Programming on Internet </li>
             <li>[Marui] Create EC Webistes and Teaser Site</li>
+            <li>Create many Websites</li>
+        </ul>
+        <ul class="about-box-list project-li" style="float:right;">
+            <li>[NHK] Make PR and advertisternet </li>
+            <li>[Marui] Create EC Wser Site</li>
             <li>Create many Websites</li>
         </ul>
       </div>
@@ -185,4 +220,26 @@
 </template>
 
 <style scoped>
+
+.tbl_container{ display: table;
+    width:100%;
+  text-align: left;}
+.tbl_container > div{
+    display: table-cell;
+    border-bottom: 1px solid #d1d1d1; 
+}
+.tbl_box_1{ background-color: #D7D7D7;
+width:30%;
+padding:1%;}
+.tbl_box_2{background-color: #85CFD2 ; width:20%; padding:1%;}
+.tbl_box_3{background-color: #85CFD2; width:30%; padding:1%;}
+
+.br-1{border-radius: 1em 0 0 0;}
+.br-2{border-radius: 0 1em 0 0;}
+.br-3{border-radius: 0 0 0 1em;}
+.br-4{border-radius: 0 0 1em 0;}
+
+.touka{
+  opacity: 0.8;
+}
 </style>
