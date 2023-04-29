@@ -44,11 +44,35 @@ const routes = [
     }
   },
   {
+    path: '/ProjectList',
+    name: 'ProjectList',
+    component: async () => {
+      const projectlist = await import('@/pages/ProjectList.vue');
+      return projectlist;
+    }
+  },
+  {
     path: '/Projects',
     name: 'Projects',
     component: async () => {
       const projects = await import('@/pages/Projects.vue');
       return projects;
+    }
+  },
+  {
+    path: '/Output',
+    name: 'Output',
+    component: async () => {
+      const output = await import('@/pages/Output.vue');
+      return output;
+    }
+  },
+  {
+    path: '/ProgrammingList',
+    name: 'ProgrammingList',
+    component: async () => {
+      const programminglist = await import('@/pages/ProgrammingList.vue');
+      return programminglist;
     }
   },
   {

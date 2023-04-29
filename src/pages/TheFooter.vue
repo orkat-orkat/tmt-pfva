@@ -6,6 +6,7 @@
     <li><RouterLink to="/Future">Future List</RouterLink></li>
     <li><RouterLink to="/Booklist">Booklist</RouterLink></li>
     <li><RouterLink to="/UXStudy">UXStudy</RouterLink></li>
+    <li><RouterLink to="/ProjectList">Project List</RouterLink></li>
     <li><RouterLink to="/Top">Top Page</RouterLink></li>
     </ul>
     <h2 class="footer">

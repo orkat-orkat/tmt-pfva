@@ -51,6 +51,7 @@ import Projects from '@/pages/Projects.vue'
  
   <!--- Project pageから-->
   <div class="about-project">
+    <p>Main Projcts</p>
     <Projects />
   </div>
 
