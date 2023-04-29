@@ -6,7 +6,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
 
 <template>
-  <h4 class="subtitle1">Recent Project List AAAAA</h4>
+  <h4 class="subtitle1">Past Project List</h4>
   <p><RouterLink to="/English">English</RouterLink></p>
   <div class="self-wrap" style="margin-bottom: 3em;">
       <div class="about-box">
@@ -38,7 +38,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       </div>
   </div>
   <div class="tbl_container about-sub-title">
-    <div class="tbl_box_1 br-1">Project List</div>
+    <div class="tbl_box_1 br-1">Project</div>
     <div class="tbl_box_2">Industry</div>
     <div class="tbl_box_3">Phase / Output</div>
     <div class="tbl_box_3 br-2">As UX Designer </div>
@@ -46,7 +46,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Sony]次世代車載製品</div>
-    <div class="tbl_box_2">Electronics Company</div>
+    <div class="tbl_box_2">Electronics Company / Car</div>
     <div class="tbl_box_3">Car Navigation</div>
     <div class="tbl_box_3">
       <ul class="about-box-list project-skills">
@@ -56,7 +56,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
   </div>
   <div class="tbl_container">
     <div class="tbl_box_1">[Sony]音楽アプリのUX体験開発</div>
-    <div class="tbl_box_2">Electronics Company</div>
+    <div class="tbl_box_2">Electronics Company / Music</div>
     <div class="tbl_box_3">Music Apps</div>
     <div class="tbl_box_3">
       <ul class="about-box-list project-skills">
@@ -70,7 +70,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     <div class="tbl_box_1">
         [富士ソフト]ドローン操作用画面、車の配車アプリなどのUI開発
         </div>
-    <div class="tbl_box_2">Drone Company</div>
+    <div class="tbl_box_2">System Integrator / <br />Drone Company</div>
     <div class="tbl_box_3">UI Development</div>
     <div class="tbl_box_3">
       <ul class="about-box-list project-skills">
@@ -84,7 +84,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     <div class="tbl_box_1">
         [富士ソフト]ベンチャー企業の金融サイト改善に関するユーザー調査
         </div>
-    <div class="tbl_box_2">Finance Company</div>
+    <div class="tbl_box_2">System Integrator / <br />Finance Company</div>
     <div class="tbl_box_3">Finance</div>
     <div class="tbl_box_3">
       <ul class="about-box-list project-skills">
@@ -96,7 +96,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
 
   <div class="tbl_container about-sub-title">
-    <div class="tbl_box_1 br-1">Project List</div>
+    <div class="tbl_box_1 br-1">Project</div>
     <div class="tbl_box_2">Industry</div>
     <div class="tbl_box_3">Phase / Output</div>
     <div class="tbl_box_3 br-2">Assigned as </div>
@@ -168,7 +168,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
   <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Past Project List</h5>
+        <h5 class="about-sub-title">Past Project </h5>
         <ul class="about-box-list project-li">
             <li>[NHK] Make PR and advertise TV Programming on Internet </li>
             <li>[Marui] Create EC Webistes and Teaser Site</li>

@@ -57,47 +57,6 @@ import Feature from '@/pages/Feature.vue'
     <Feature/>
   </div>
 
- 
-  <h4 class="subtitle1">Certs</h4>
-  <div class="self-wrap">
-    <div class="self-items5">
-          <div class="cardList_thumb">
-            <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
-          </div>
-          <h4 class="cardList_title">Test in color coordination.</h4>
-          <p>Self Study and Project Use</p>
-    </div>
-
-
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              IT Passsport 
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p class="">Self Study and Project Use</p>
-      </div>
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              Toeic 755
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              絵が入る
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              絵が入る
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
-  </div>
 
   </div><!-- contents-->
   

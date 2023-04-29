@@ -97,7 +97,7 @@
           <p>Self Study and Project Use</p>
       </div>
 
-        
+     
 
         <div class="self-items5">
           <div class="cardList_thumb">
@@ -122,11 +122,51 @@
           <h4 class="cardList_title">MS Prog in HTML5 with JS and CSS3</h4>
           <p>Self Study and Project Use</p>
       </div>
-      
-     
+           
   </div>
 
+  <div class="self-wrap">
+        <div class="self-items5">
+          <div class="cardList_thumb">
+            IT Passport
+          </div>
+          <h4 class="cardList_title">IT Passport</h4>
+          <p>Self Study and Project Use</p>
+      </div>
 
+      <div class="self-items5">
+          <div class="cardList_thumb">
+           Upper Class
+          </div>
+          <h4 class="cardList_title">Web Design Creators </h4>
+          <p>Self Study and Project Use</p>
+      </div>
+
+        <div class="self-items5">
+          <div class="cardList_thumb">
+            Toeic
+          </div>
+          <h4 class="cardList_title">Toeic 750</h4>
+          <p>English</p>
+      </div>
+
+        <div class="self-items5">
+          <div class="cardList_thumb">
+           IELTS 6.0
+          </div>
+          <h4 class="cardList_title"> IELTS 6.0</h4>
+          <p>English</p>
+      </div>
+    
+      <div class="self-items5">
+          <div class="cardList_thumb">
+            <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
+          </div>
+          <h4 class="cardList_title">Test in color coordination.</h4>
+          <p>Self Study and Project Use</p>
+    </div>
+           
+  </div>
   
   <img src="@/assets/img/github-mark.svg" alt="Logo" class="img-git">
 </div>

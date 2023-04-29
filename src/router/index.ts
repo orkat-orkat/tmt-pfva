@@ -1,6 +1,9 @@
 //ここにあるものが、RouterView/RouterLinkに使える
 
 import { createRouter, createWebHistory } from 'vue-router';
+import Home from '@/pages/Home.vue'
+import NotFound from '@/pages/NotFound.vue'
+
 
 const routes = [
   {
@@ -130,8 +133,12 @@ const routes = [
       const notfound = await import('@/pages/NotFound.vue');
       return notfound;
     }
-  }
+  },
+
+  { path: '/:catchAll(.*)', component: NotFound } // ココ
+
 ];
+
 
 //遷移の時にtopを表示する
 import { RouteLocationNormalized } from 'vue-router';
@@ -146,7 +153,7 @@ const scrollBehavior = (to: RouteLocationNormalized, from: RouteLocationNormaliz
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
-  routes
+  routes,
 });
 
 export default router;
