@@ -52,7 +52,7 @@ import Skills from '@/pages/Skills.vue'
     <ul class="cv-list">
       <li class="list-short-text">TOEIC 755 </li>
       <li class="list-short-text">IELTS 6.0</li>
-      <li class="list-short-text"></li>
+      <li class="list-short-text">IT Passport</li>
     </ul>
 
     <ul class="cv-list">

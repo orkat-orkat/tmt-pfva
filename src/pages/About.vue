@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Projects from '@/pages/Projects.vue'
-/* import Timeline from '@/pages.Timeline.vue' */
+import Feature from '@/pages/Feature.vue'
 </script>
 
 <template>
@@ -50,11 +50,12 @@ import Projects from '@/pages/Projects.vue'
     </p>
  
   <!--- Project pageから-->
-  <div class="about-project">
-    <p>Main Projcts</p>
-    <Projects />
-  </div>
+  
 
+ 
+  <div class="about-project">
+    <Feature/>
+  </div>
 
  
   <h4 class="subtitle1">Certs</h4>

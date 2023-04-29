@@ -68,6 +68,14 @@ const routes = [
     }
   },
   {
+    path: '/Feature',
+    name: 'Feature',
+    component: async () => {
+      const feature = await import('@/pages/Feature.vue');
+      return feature;
+    }
+  },
+  {
     path: '/ProgrammingList',
     name: 'ProgrammingList',
     component: async () => {
@@ -107,14 +115,6 @@ const routes = [
       return future;
     }
   },
-  /* {
-    path: '/Timeline',
-    name: 'Timeline',
-    component: async () => {
-      const timeline = await import('@/pages/Timeline.vue');
-      return timeline;
-    }
-  }, */
   {
     path: '/',
     name: 'none',
@@ -132,6 +132,17 @@ const routes = [
     }
   }
 ];
+
+//遷移の時にtopを表示する
+import { RouteLocationNormalized } from 'vue-router';
+const scrollBehavior = (to: RouteLocationNormalized, from: RouteLocationNormalized, savedPosition: { x: 0, y: 0 } | null) => {
+  if (savedPosition) {
+    return savedPosition;
+  } else {
+    return { x: 0, y: 0 };
+  }
+};
+
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),

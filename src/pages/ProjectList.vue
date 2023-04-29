@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Projects from '@/pages/Projects.vue'
-
 /* import Timeline from '@/pages.Timeline.vue' */
 </script>
 
