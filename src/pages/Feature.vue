@@ -66,19 +66,23 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
           <li class="pjt-overview-txt2">機能概要資料<br >
-            海外のラジオ機能、衛星ラジオ機能、独自音楽再生機能など、新機能追加によるUX視点からの、機能概要資料を作成。<br />
+            海外向けラジオ機能、衛星ラジオ機能、独自音楽再生機能、CarApp、Android Auto、カースピーカー操作など、新機能追加に関してUX視点からの機能概要資料を作成。<br />
             資料のフォーマット化については、段階的詳細化をベースとし、クライアント社内のUXメソッド開発者によるレビューを実施。<br />
             新機能についても、社内の機能検討会での承認を経て、画面設計を行ない、社内のUXルールに沿って、クォリティコントロールを実施。
-            海外向け製品のため、実際に期待通りに動くか、試験を行なう。<br />
-            そのために、ユースケース、テスト条項を作成した。<br />
+            海外向け製品のため、実際に期待通りに動くか、ユースケース、テスト条項を作成した。<br />
             実地で動作を確認し、失敗した理由を、各機能の担当者にフィードバックを行い、ラジオなどは規格の調査を担当した。</li>
         </ul>
       </div>
      </div>
-    <div class="tbl_box_3 br-2">作品: 最終的なデザインを紹介 絵が入る
+    <div class="tbl_box_3 br-2">Product: Car Navigation
       <ul>
-        <li>成果 : プロジェクトの成果を数値やグラフなどで紹介</li>
-        <li>その他: 他にも、このプロジェクトについての学んだことや感想</li>
+        <li style="text-align: center;"><img src="src/assets/img/sony_XAV-9500ES_002.png" alt="" style="width:70%;"></li>
+        <li>その他 : 学んだことや感想</li>
+        <li style="font-weight: lighter;">
+        S社では、UXチームが経験豊富なため、非常に楽しく仕事ができた。特にファシリテーション方法や、UXの技術には独自の観点でのレビューを作り上げており、
+    UXプロジェクトを確実にプロダクトに活かしてしており、やりがいがあった。<br />
+    印象的なのは、チーム内での振り返りの技術であり、心理的安全性の担保が保たれていて、興味深かった。<br>
+    また、すでにある機能や、仕様の説明をUX観点から書き直す作業も、仕様書の書き方を再勉強する機会になった。</li>
       </ul>
     </div>
 </div>
@@ -117,16 +121,24 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
-          <li class="pjt-overview-txt2">競合調査資料<br >ユーザーフロー図<br >ユーザーストーリー作成（カスタマージャーニーマップ）<br>
+          <li class="pjt-overview-txt2">
+            ユーザーフロー図<br >
+            データ上で利用者調査を行い、製品の価値を上げるための施作を考えた。<br >
+他社のアプリを調査し、プロコンを調査し、 現状ギャップを把握するところからはじめ、今後の理想の姿を可視化できるようにした。<br >
+ 競合調査資料<br >ユーザーストーリー作成（カスタマージャーニーマップ）<br>
          機能検討に関しては、「私が [ペルソナ] なら、[希望] を実行することで [目標] を達成したい」という目的に沿ったもので表現できるかなど、
          ドキュメンテーションを意識した。</li>
         </ul>
       </div>
      </div>
-    <div class="tbl_box_3 br-2">作品: 最終的なデザインを紹介 絵が入る
+    <div class="tbl_box_3 br-2">アウトプット: 
       <ul>
-        <li>成果 : プロジェクトの成果を数値やグラフなどで紹介</li>
-        <li>その他: 他にも、このプロジェクトについての学んだことや感想</li>
+        <li>NDA --- No Image</li>
+        <li style="text-align: center;">
+          <div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.6;"></div></li>
+        <li>その他 : 学んだことや感想</li>
+        <li style="font-weight: lighter;">
+        参画した期間は短かったが、BtoCのアプリでもHCDやこれまでの学びを改めて実践的に活かすことができ、楽しかった。</li>
       </ul>
     </div>
 </div>
@@ -166,11 +178,8 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
           <li class="pjt-overview-txt2">機能概要資料<br >
-            海外のラジオ機能、衛星ラジオ機能、独自音楽再生機能など、新機能追加によるUX視点からの、機能概要資料を作成。<br />
-            資料のフォーマット化については、段階的詳細化をベースとし、クライアント社内のUXメソッド開発者によるレビューを実施。<br />
-            新機能についても、社内の機能検討会での承認を経て、画面設計を行ない、社内のUXルールに沿って、クォリティコントロールを実施。
-            海外向け製品のため、実際に期待通りに動くか、ユースケース、テスト条項を作成した。<br />
-            実地で動作を確認し、失敗した理由を、各機能の担当者にフィードバックを行い、ラジオなどは規格の調査を担当した。</li>
+            利用者調査を踏まえた、製品の価値を上げるための施作を考えた。<br >まず他社のアプリを調査し、プロコンを調査し、
+          現状ギャップを把握するところからはじめ、今後の理想の姿を作成した。</li>
         </ul>
       </div>
      </div>
@@ -210,24 +219,26 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
-          <li class="pjt-overview-txt2">デザインフェーズからの参画となり、ドローン操作画面を担当。UIとインタラクション設計を担当<br />
-            メインのデザイナーと一緒にダークモード、ライトモードを意識したカラー設計、デザインシステムなどの資料作成を担当</li>
+          <li class="pjt-overview-txt2">デザインフェーズから参画し、ドローン操作画面のUIとインタラクション設計を担当<br />
+            メインのグラフィックデザイナーと一緒にダークモード、ライトモードを意識したカラー設計、デザインシステムなどの資料作成なども担当</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
-          <li class="pjt-overview-txt2">デザインシステム資料作成<br >
-            海外のラジオ機能、衛星ラジオ機能、独自音楽再生機能など、新機能追加によるUX視点からの、機能概要資料を作成。<br />
-            資料のフォーマット化については、段階的詳細化をベースとし、クライアント社内のUXメソッド開発者によるレビューを実施。<br />
-            新機能についても、社内の機能検討会での承認を経て、画面設計を行ない、社内のUXルールに沿って、クォリティコントロールを実施。
-            海外向け製品のため、実際に期待通りに動くか、ユースケース、テスト条項を作成した。<br />
-            実地で動作を確認し、失敗した理由を、各機能の担当者にフィードバックを行い、ラジオなどは規格の調査を担当した。</li>
+          <li class="pjt-overview-txt2">デザインシステム資料<br >
+          操作画面</li>
         </ul>
       </div>
      </div>
-    <div class="tbl_box_3 br-2">作品: 最終的なデザインを紹介 絵が入る
+    <div class="tbl_box_3 br-2">Output : NDA --- The images are tentative.
       <ul>
-        <li>成果 : プロジェクトの成果を数値やグラフなどで紹介</li>
-        <li>その他: 他にも、このプロジェクトについての学んだことや感想</li>
+        <li>成果 : 操作画面のデザインシステムと、画面のモックアップ用を３ヶ月をかけて作成。</li>
+        <li style="text-align: center;"><div style=""><img src="src/assets/img/flying-icons-image.jpg" alt="" style="width:70%; margin:3em 0; opacity: 0.8">
+        </div></li>
+        <li>その他 : 学んだことや感想</li>
+        <li style="font-weight: lighter;">
+          ダークモードに関するカラー設計では、これまでの経験を活かし、作成することができた。操作画面は評判が良かったが、
+          実際の画面操作としては情報が多くなったため、いくつか画面を分割するなどして、臨機応変に対応することができた。
+          ほとんど英語のプロジェクトだったので、翻訳しながら機能を移植することになった。</li>
       </ul>
     </div>
 </div>
@@ -276,12 +287,11 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     <div class="tbl_box_2">Drone Company</div>
     <div class="tbl_box_3">
       <ul>
-        <li> UI Development / </li>
+        <li>UI Development / </li>
         <li>デザインリサーチ</li>
         <li>Design research</li>
         <li>競合リサーチ</li>
         <li>Competitive research</li>
-        <li></li>
       </ul>
     </div>
     <div class="tbl_box_3">

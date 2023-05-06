@@ -13,7 +13,7 @@
   <div class="parent">
   <div class="child">
     <ul class="top-box-list top-contents">
-    <li style="font-weight:bold;">/ How can I contribute. /</li>
+    <li style="font-weight:bold;"> How can I contribute. </li>
     <li>My profession is create Business Apps with UX field.</li>
     <li>Create interface / Define requirements / IA / User Research</li>
     <li>Create interface / Define requirements / IA / User Research</li>
