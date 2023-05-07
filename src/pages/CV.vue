@@ -37,7 +37,7 @@ import Skills from '@/pages/Skills.vue'
 
     <ul class="cv-list">
       <li class="list-short-text">2021年</li>
-      <li class="list-short-text">大原学園 経営管理基礎科(中小企業診断士準備)修了</li>
+      <li class="list-short-text">大原学園 経営管理基礎科<br />(中小企業診断士準備)修了</li>
       <li class="list-long-text">SME management consultants study finished</li>
     </ul>
 
@@ -67,29 +67,29 @@ import Skills from '@/pages/Skills.vue'
     <h6 class="subtitle4 certs">HCD (人間中心設計専門家（Certified Human Centered Design Professional)）</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name">User Research / HCD Process</li>
-      <li class="list-short-text">Affinity Diagram(KJ Method) / <br> Customer Journey Map / Workshop</li>
-      <li class="list-long-text">Certified</li>
+      <li class="list-long-text">Affinity Diagram(KJ Method) / Customer Journey Map / Workshop</li>
+      <li class="list-short-text">Certified</li>
     </ul>
     <h6 class="subtitle4 certs">Design Thinking</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'arrow-progress']" />Design Thinking Process</li>
-      <li class="list-short-text">Empathize / Define / Ideate /  <br>  Prototype / Test</li>
-      <li class="list-long-text">Certified</li>
+      <li class="list-long-text">Empathize / Define / Ideate / Prototype / Test</li>
+      <li class="list-short-text">Certified</li>
     </ul>
     <h6 class="subtitle4 certs">色彩検定（Test in color coordination）</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name">2nd Class</li>
-      <li class="list-short-text">Color Managemtnt</li>
-      <li class="list-long-text">Certified</li>
+      <li class="list-long-text">Color Managemtnt</li>
+      <li class="list-short-text">Certified</li>
     </ul>
     <ul class="cv-list">
       <li class="list-short-text skill-name">UC Class</li>
-      <li class="list-short-text">Universal Design</li>
-      <li class="list-long-text">Certified</li>
+      <li class="list-long-text">Universal Design</li>
+      <li class="list-short-text">Certified</li>
     </ul>
     <ul class="cv-list">
       <li class="list-short-text">Google Analytics</li>
-      <li class="list-long-text">Certified</li>
+      <li class="list-short-text">Certified</li>
     </ul>
 
     <hr style="border:none; margin:2em; ">
@@ -98,5 +98,3 @@ import Skills from '@/pages/Skills.vue'
   </div>
 </div>
 </template>
-
-

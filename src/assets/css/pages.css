@@ -599,6 +599,7 @@ color: green;
   
   li.list-long-text{
     min-width: 40%;
+    margin-right: 2em;
   }
 
   ul.cv-sub-list{

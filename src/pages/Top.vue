@@ -3,7 +3,7 @@
   <h4 class="subtitle1">Hi</h4>
   <div class="self-wrap">
     <ul class="top-box-list">
-            <li>Tommy's Portofolio</li>
+            <li>Welcome to Tommy's Portofolio</li>
             <li>I live in Tokyo.</li>
             <li>I Love design, technology and make people happy.</li>
         </ul>
@@ -14,7 +14,7 @@
   <div class="child">
     <ul class="top-box-list top-contents">
     <li style="font-weight:bold;"> How can I contribute. </li>
-    <li>My profession is create Business Apps with UX field.</li>
+    <li>My profession is create Business Apps based with UX field.</li>
     <li>Create interface / Define requirements / IA / User Research</li>
     <li>Create interface / Define requirements / IA / User Research</li>
   </ul>
@@ -38,10 +38,8 @@
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
     <li class="bold">[2023]</li>
-    <li class="list-history-items">May.2 -- コンテンツの精査。ちゃんと、ロール、結果、などを追記したい。</li>
-    <li class="list-history-items">April.27 -- SPはとりあえず表示できるまでに修正・・・色などは後で変更しよう。大枠が崩れないようにした。細かい修正は、今後行う。</li>
-    <li class="list-history-items">April.24 -- よく考えた結果、SP対応ページは別のサイトにすることにしました。</li>
-    <li class="list-history-items">April.21 -- CSSを変更しました。SP対応をすっかり忘れていました。本当に忘れていました。</li>
+    <li class="list-history-items">May.2 -- コンテンツの内容を追記した。</li>
+    <li class="list-history-items">April.27 -- 壊れていた表示は後で変更。大枠が崩れないようにした。細かい修正は、今後行う。</li>
     <li class="list-history-items">April.13 -- 以前断念したVueに手を出してしまったので頑張って理解しようとしている。</li>
     <li class="list-history-items">April.11 -- ポートフォリオを作成開始しました。Netfrlyを知る。便利。でもNetfrlyが用意している
       Vue3はうまくいかなかった。（Memo）</li>

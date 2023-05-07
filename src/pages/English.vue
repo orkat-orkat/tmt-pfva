@@ -2,12 +2,6 @@
     <div class="contents">
       <h4 class="subtitle1">English Summary Page </h4>
       <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'Top' }" >Back</RouterLink> To Japanese Top page</small>
-      
-    <div class="self-wrap">
-      <div class="self-items">CV</div>
-      <div class="self-items">2</div>
-      <div class="self-items">3</div>
-  </div>
 
   <div class="self-wrap">
       <div class="about-box">
@@ -20,15 +14,7 @@
             <li>[FXXX] UI Development for Car dispatch apps etc.</li>
         </ul>
       </div>
-      <div class="self-items3 self-item-sub1">
-        <h5 class="about-sub-title">対象製品、サービス</h5>
-        <ul class="about-box-list project-prod">
-            <li>次世代車載製品</li>
-            <li>MDR(ヘッドホン、音楽アプリ、ハブアプリ)</li>
-            <li>社内UX人材教育資料作成</li>
-            <li>ドローン用UI開発</li>
-        </ul>
-      </div>
+     
       <div class="self-items3 self-item-sub2">
         <h5 class="about-sub-title">UX Researcher / UX Designer</h5>
         <ul class="about-box-list project-skills">
@@ -43,17 +29,18 @@
 
     <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Recent Project List</h5>
+        <h5 class="about-sub-title">Past Project List</h5>
         <ul class="about-box-list project-li">
-            <li>Participated in many projects using Microsoft products and technologies.</li>
-            <li>[Oil Company] Major oil company internal systems renewal</li>
-            <li>[Truck Company] Participation in CMS development for DX purposes from the UX upstream process</li>
-            <li>[Logistics] Participation in CMS development for DX purposes from the UX upstream process Participation as sub-leader in the testing phase of a large-scale PC migration project</li>
+            <li style="font-weight:bold">Participated in many projects using Microsoft products and technologies.</li>
+            <li>[Oil Company] Major oil company internal systems renewal.</li>
+            <li>[Truck Company] Participation in CMS development for DX purposes from the UX upstream process.</li>
+            <li>[Logistics] Participation in CMS development for DX purposes from the UX upstream process Participation as sub-leader in the testing phase of a large-scale PC migration project.</li>
             <li>[Heavy Vehicles] Participated in a PoC project to develop next-generation heavy equipment vehicles using Azure, creating screens and proposals.</li>
-            <li>[Agriculture] Agricultural production management system construction (PoC)</li>
+            <li>[Agriculture] Agricultural production management system construction (PoC).</li>
             <li>[Apparel] Created apps for internal UNIQLO HR development materials and training apps for employees.</li>
             <li>[Education] ICT apps for schools for primary school children.</li>
-            <li>[Other / In-house] In-house project to develop VR and support consultation with foreign employees.</li>
+            <li>[VR] Develop VR contents with other UX members.</li>
+            <li>[Other / In-house]Support and consultation for foreign employees.</li>
         </ul>
       </div>
       <div class="self-items3 self-item-sub1">
@@ -85,7 +72,7 @@
 
   <div class="self-wrap">
       <div class="about-box">
-        <h5 class="about-sub-title">Past Project List</h5>
+        <h5 class="about-sub-title">Other Past Project List</h5>
         <ul class="about-box-list project-li">
             <li>[NHK] Make PR and advertise TV Programming on Internet </li>
             <li>[Marui] Create EC Webistes and Teaser Site</li>
@@ -112,13 +99,19 @@
             User Research
           </div>
           <div class="output-items">
-            Interview
+            Interview / Survey
           </div>
           <div class="output-items">
             Worekshop
           </div>
           <div class="output-items">
-            Customer Journey Map
+            Customer J Map
+          </div>
+          <div class="output-items">
+            Prototyping
+          </div>
+          <div class="output-items">
+            Usability testing
           </div>
     </div>
     <div class="self-wrap" style="border-bottom: 1px dashed rgb(0, 206, 229); padding-bottom: 2em;">
@@ -126,7 +119,7 @@
         KJ Method
       </div>
       <div class="output-items">
-        Wireflame
+        Wireframing
       </div>
       <div class="output-items">
         Business Requirements

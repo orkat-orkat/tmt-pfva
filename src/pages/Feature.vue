@@ -135,7 +135,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       <ul>
         <li>NDA --- No Image</li>
         <li style="text-align: center;">
-          <div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.6;"></div></li>
+          <div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.4;"></div></li>
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
         参画した期間は短かったが、BtoCのアプリでもHCDやこれまでの学びを改めて実践的に活かすことができ、楽しかった。</li>
@@ -167,11 +167,11 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト目的</li>
-          <li class="pjt-overview-txt2">プロジェクトが解決しようとしている問題や課題</li>
+          <li class="pjt-overview-txt2">プロジェクトの背景として、数の増えすぎたアプリの統合を検討する必要があった。</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
-          <li class="pjt-overview-txt2">前モデルからの次世代モデルへの搭載機能に関するUXレビューと評価を行う。<br />
+          <li class="pjt-overview-txt2">
             競合リサーチと、マーケット評価によるユーザーリサーチ結果を、機能に反映するためのドキュメント作成を担当。<br />
             デザインチームと一緒に、プロトタイプを作成</li>
         </ul>
@@ -183,10 +183,12 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
       </div>
      </div>
-    <div class="tbl_box_3 br-2">作品: 最終的なデザインを紹介 絵が入る
+    <div class="tbl_box_3 br-2">Output : NDA --- The images are tentative.
       <ul>
-        <li>成果 : プロジェクトの成果を数値やグラフなどで紹介</li>
-        <li>その他: 他にも、このプロジェクトについての学んだことや感想</li>
+        <li style="text-align:center;"><div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.4;"></div></li>
+        <li>その他 : 学んだことや感想</li>
+        <li style="font-weight: lighter;">アプリの調査をメインに行い、最終的にハブアプリを作ることになった。将来的にはさらに統合されるかもしれないが、現時点での問題点、それを解決するためのゴールを見つけることができたので、安心して次のフェーズに引き渡すことができた。
+        </li>
       </ul>
     </div>
 </div>
@@ -231,8 +233,8 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
      </div>
     <div class="tbl_box_3 br-2">Output : NDA --- The images are tentative.
       <ul>
-        <li>成果 : 操作画面のデザインシステムと、画面のモックアップ用を３ヶ月をかけて作成。</li>
-        <li style="text-align: center;"><div style=""><img src="src/assets/img/flying-icons-image.jpg" alt="" style="width:70%; margin:3em 0; opacity: 0.8">
+        <li>成果 : 操作画面のデザインシステムと、画面のモックアップ用を３ヶ月で作成。</li>
+        <li style="text-align: center;"><div style=""><img src="src/assets/img/flying-icons-image.jpg" alt="" style="width:70%; margin:3em 0; opacity: 0.6">
         </div></li>
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
@@ -278,19 +280,21 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
-          <li class="pjt-overview-txt2">画像の検索画面、結果表示画面、画像用のコントロール画面などの作成を担当。</li>
+          <li class="pjt-overview-txt2">画像の検索画面、結果表示画面、画像用のコントロール画面などの作成を担当。<br>
+          SEと一緒に、実現が難しい表示については一緒に技術調査などを行った。
+          </li>
         </ul>
       </div>
      </div>
     <div class="tbl_box_3 br-2">Output : NDA --- The images are tentative.
       <ul>
         <li>成果 : 画面のモックアップ用を１ヶ月程度で作成。</li>
-        <li style="text-align: center;"><div style=""><img src="" alt="" style="width:70%; margin:3em 0; opacity: 0.8">
-        </div></li>
+        <li style="text-align: center;"><div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.2"></div></li>
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
           AIを利用した画面を作成した経験や知見が周囲にもなかったため、いろいろと試行錯誤しながら、どのようなことが実現できるのか、どう表示されるべきかを
-        検討した上で、モックアップを含めてコーディングを担当した。私以外に画面をコーディングを担当する人がいなかったため、自由に作成することができた。</li>
+        検討した上で、モックアップを含めてコーディングを担当した。期待される画像が検索結果に出るかどうかなど、簡易的なテストも担当し、AI案件の定義の難しさを感じた。
+        </li>
       </ul>
     </div>
 </div>
@@ -321,9 +325,7 @@ padding:1%;}
   opacity: 0.8;
 }
 
-.pjt-overview-list1{
-  
-}
+
 .pjt-overview-list1 li{
 border-bottom: 1px dashed #85CFD2;
 padding:0.5em;
