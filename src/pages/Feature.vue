@@ -59,7 +59,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
-          <li class="pjt-overview-txt2">前モデルからの次世代モデルへの搭載機能に関するUXレビューと評価を行う。<br />
+          <li class="pjt-overview-txt2">前モデルからの次世代モデルに搭載する新機能に関するUXレビューと評価を行う。<br />
             競合リサーチと、マーケット評価によるユーザーリサーチ結果を、機能に反映するためのドキュメント作成を担当。<br />
             デザインチームと一緒に、プロトタイプを作成</li>
         </ul>
@@ -124,10 +124,10 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
           <li class="pjt-overview-txt2">
             ユーザーフロー図<br >
             データ上で利用者調査を行い、製品の価値を上げるための施作を考えた。<br >
-他社のアプリを調査し、プロコンを調査し、 現状ギャップを把握するところからはじめ、今後の理想の姿を可視化できるようにした。<br >
- 競合調査資料<br >ユーザーストーリー作成（カスタマージャーニーマップ）<br>
-         機能検討に関しては、「私が [ペルソナ] なら、[希望] を実行することで [目標] を達成したい」という目的に沿ったもので表現できるかなど、
-         ドキュメンテーションを意識した。</li>
+他社のアプリの調査、 現状ギャップを把握するところからはじめ、今後の理想の姿を可視化できるようにした。<br >
+ アウトプットとして、競合調査資料、操作説明のための画面遷移などが含まれ、
+         機能検討に関しては社の書式が、目的に沿ったフォーマットで表現できるかなど、
+         ドキュメントのあり方を意識して作った。</li>
         </ul>
       </div>
      </div>
@@ -177,9 +177,9 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
-          <li class="pjt-overview-txt2">機能概要資料<br >
-            利用者調査を踏まえた、製品の価値を上げるための施作を考えた。<br >まず他社のアプリを調査し、プロコンを調査し、
-          現状ギャップを把握するところからはじめ、今後の理想の姿を作成した。</li>
+          <li class="pjt-overview-txt2">
+            利用者調査を踏まえた、製品の価値を上げるための施作を考えた。<br >まず他社のアプリをさまざまな角度から調査した。そして
+          現状ギャップを把握するところからはじめ、今後の理想の姿を作成した。<br >競合調査、現在の製品に対するヒューリスティック調査、ユーザー調査などを行う。</li>
         </ul>
       </div>
      </div>
@@ -196,12 +196,12 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       <div class="">
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト概要</li>
-          <li class="pjt-overview-txt2">[富士ソフト]ドローン操作用画面、車の配車アプリなどのUI開発</li>
+          <li class="pjt-overview-txt2">ドローン操作用画面、車の配車アプリなどのUI開発</li>
         </ul>
 
         <ul class="pjt-overview-list1">
         <li class="pjt-overview-txt">クライアント名 <br /> 業種 </li>
-        <li class="pjt-overview-txt2">XXX <br /> 運輸</li>
+        <li class="pjt-overview-txt2"> FXXXXX <br /> 運輸</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">チームの人数</li>
@@ -220,7 +220,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
           <li class="pjt-overview-txt2">デザインフェーズから参画し、ドローン操作画面のUIとインタラクション設計を担当<br />
-            メインのグラフィックデザイナーと一緒にダークモード、ライトモードを意識したカラー設計、デザインシステムなどの資料作成なども担当</li>
+            メインのグラフィックデザイナーと一緒にダークモード、ライトモードを意識したカラー設計、デザインシステムなどの資料作成なども併せて担当した。</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
@@ -243,77 +243,57 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     </div>
 </div>
 
-  <div class="tbl_container">
-    <div class="tbl_box_1">[Sony]次世代車載製品</div>
-    <div class="tbl_box_2">Electronics Company <br>+Car Navigation</div>
-    <div class="tbl_box_3">UX Designer</div>
-    <div class="tbl_box_3">
-      <ul class="about-box-list project-skills">
-            <li>機能解説資料作成</li>
-            <li>Functional description documentation</li>
-        </ul>
-    </div>
-  </div>
 
-  <div class="tbl_container">
-    <div class="tbl_box_1">[Sony]UX Knowledge Transferring Project (UX Human Resources Development)</div>
-    <div class="tbl_box_2">Electronics Company<br>+ Human Resource, HCD Division</div>
-    <div class="tbl_box_3">Assist for UX Human Resources Development</div>
-    <div class="tbl_box_3">
-      <ul class="about-box-list project-skills">
-            <li>UXがわかる人材開発資料作成</li>
-            <li>価値体験からシステム要件に至るまでの思考プロセスを明らかにし、UX検討の指南書の作成</li>
-            <li>To clarify the thought process from value experience to system requirements, and to create a UX study pointer</li>
+<div class="tbl_container about-sub-title">
+    <div class="tbl_box_1 br-1">
+      <div class="">
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">プロジェクト概要</li>
+          <li class="pjt-overview-txt2">AI(画像認識)対応画面作成</li>
         </ul>
-    </div>
-  </div>
-  
-  <div class="tbl_container">
-    <div class="tbl_box_1">[Sony]音楽アプリのUX体験開発</div>
-    <div class="tbl_box_2">Electronics Company <br>Music Apps</div>
-    <div class="tbl_box_3">UX Designer / Product Research</div>
-    <div class="tbl_box_3">
-      <ul class="about-box-list project-skills">
-            <li>デザインシステム作成</li>
-            <li>Support to Create Design Systems</li>
-        </ul>
-    </div>
-  </div>
 
-  <div class="tbl_container">
-    <div class="tbl_box_1">
-        [富士ソフト]ドローン操作用画面、車の配車アプリなどのUI開発
-        </div>
-    <div class="tbl_box_2">Drone Company</div>
-    <div class="tbl_box_3">
+        <ul class="pjt-overview-list1">
+        <li class="pjt-overview-txt">クライアント名 <br /> 業種 </li>
+        <li class="pjt-overview-txt2"> XXXXX <br /> エネルギー（電力）</li>
+        </ul>
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">チームの人数</li>
+          <li class="pjt-overview-txt2">４名</li>
+        </ul>
+       
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">プロジェクトの期間</li>
+          <li class="pjt-overview-txt2">６ヶ月</li>
+        </ul>
+
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">プロジェクト目的</li>
+          <li class="pjt-overview-txt2">膨大な写真を自動で収集、整理し、効率よく作業を進めるためのAIを利用したWebアプリ作成</li>
+        </ul>
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">プロセス :</li>
+          <li class="pjt-overview-txt2">UXリサーチ後のWebアプリコーディングを担当。当時新しかったAzureのAI機能を使うアプリとして社内では認知され、
+            モックとして作ったものを改良したり、画像分類された画像がどの精度で来るかが不明だったため、運用が始まってからも改良が続けられた。
+          </li>
+        </ul>
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">Output : </li>
+          <li class="pjt-overview-txt2">画像の検索画面、結果表示画面、画像用のコントロール画面などの作成を担当。</li>
+        </ul>
+      </div>
+     </div>
+    <div class="tbl_box_3 br-2">Output : NDA --- The images are tentative.
       <ul>
-        <li>UI Development / </li>
-        <li>デザインリサーチ</li>
-        <li>Design research</li>
-        <li>競合リサーチ</li>
-        <li>Competitive research</li>
+        <li>成果 : 画面のモックアップ用を１ヶ月程度で作成。</li>
+        <li style="text-align: center;"><div style=""><img src="" alt="" style="width:70%; margin:3em 0; opacity: 0.8">
+        </div></li>
+        <li>その他 : 学んだことや感想</li>
+        <li style="font-weight: lighter;">
+          AIを利用した画面を作成した経験や知見が周囲にもなかったため、いろいろと試行錯誤しながら、どのようなことが実現できるのか、どう表示されるべきかを
+        検討した上で、モックアップを含めてコーディングを担当した。私以外に画面をコーディングを担当する人がいなかったため、自由に作成することができた。</li>
       </ul>
     </div>
-    <div class="tbl_box_3">
-      <ul class="about-box-list project-skills">
-            <li>Support to Create Design Systems</li>
-        </ul>
-    </div>
-  </div>
-  <div class="tbl_container" style="margin-bottom:3em;">
-    <div class="tbl_box_1">
-        [富士ソフト]ベンチャー企業の金融サイト改善に関するユーザー調査
-        </div>
-    <div class="tbl_box_2">Finance Company</div>
-    <div class="tbl_box_3">Finance</div>
-    <div class="tbl_box_3">
-      <ul class="about-box-list project-skills">
-            <li>ヒューリスティック調査</li>
-            <li>デザインリサーチ</li>
-        </ul>
-    </div>
-  </div>
-
+</div>
 
 </template>
 

@@ -13,11 +13,11 @@
       <div class="about-box">
         <h5 class="about-sub-title">Recent Project List</h5>
         <ul class="about-box-list project-li">
-            <li>[Sony] Participation in the development of next-generation in-vehicle products.</li>
-            <li>[Sony] Participation in the development of UX experiences for music apps.</li>
-            <li>[Fuji Soft] User Rsearch on improving venture finance websites.</li>
-            <li>[Fuji Soft] UI development for drone operation screens</li>
-            <li>[Fuji Soft] UI Development for Car dispatch apps etc.</li>
+            <li>[SXXX] Participation in the development of next-generation in-vehicle products.</li>
+            <li>[SXXX] Participation in the development of UX experiences for music hub app.</li>
+            <li>[FXXX] User Rsearch on improving venture finance websites.</li>
+            <li>[FXXX] UI development for drone operation screens</li>
+            <li>[FXXX] UI Development for Car dispatch apps etc.</li>
         </ul>
       </div>
       <div class="self-items3 self-item-sub1">
@@ -47,12 +47,12 @@
         <ul class="about-box-list project-li">
             <li>Participated in many projects using Microsoft products and technologies.</li>
             <li>[Oil Company] Major oil company internal systems renewal</li>
-            <li>[UD Truck] Participation in CMS development for DX purposes from the UX upstream process</li>
-            <li>[Japan Post] Participation in CMS development for DX purposes from the UX upstream process Participation as sub-leader in the testing phase of a large-scale PC migration project</li>
-            <li>[KOMATSU] Participated in a PoC project to develop next-generation heavy equipment vehicles using Azure, creating screens and proposals.</li>
-            <li>[神明] Agricultural production management system construction (PoC)</li>
-            <li>[UNIQLO] Created apps for internal UNIQLO HR development materials and training apps for employees.</li>
-            <li>[小学館] ICT apps for schools for primary school children.</li>
+            <li>[Truck Company] Participation in CMS development for DX purposes from the UX upstream process</li>
+            <li>[Logistics] Participation in CMS development for DX purposes from the UX upstream process Participation as sub-leader in the testing phase of a large-scale PC migration project</li>
+            <li>[Heavy Vehicles] Participated in a PoC project to develop next-generation heavy equipment vehicles using Azure, creating screens and proposals.</li>
+            <li>[Agriculture] Agricultural production management system construction (PoC)</li>
+            <li>[Apparel] Created apps for internal UNIQLO HR development materials and training apps for employees.</li>
+            <li>[Education] ICT apps for schools for primary school children.</li>
             <li>[Other / In-house] In-house project to develop VR and support consultation with foreign employees.</li>
         </ul>
       </div>

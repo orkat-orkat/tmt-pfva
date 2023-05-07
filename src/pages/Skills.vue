@@ -94,17 +94,13 @@
             <img src="@/assets/img/DesignThinking_cert.jpg" alt="" class="" width="70%">
           </div>
           <h4 class="cardList_title">Design Thinking Course</h4>
-          <p>Self Study and Project Use</p>
       </div>
-
-     
 
         <div class="self-items5">
           <div class="cardList_thumb">
             <img src="@/assets/img/MicrosoftAzureFunadmentals.png" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">Microsoft Azure Fundamentals</h4>
-          <p>Project Use</p>
       </div>
 
         <div class="self-items5">
@@ -112,7 +108,6 @@
             <img src="@/assets/img/awsCloudPractitioner.png" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">AWS Certified Cloud Practitioner</h4>
-          <p>Self Study</p>
       </div>
     
         <div class="self-items5">
@@ -120,7 +115,6 @@
             <img src="@/assets/img/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">MS Prog in HTML5 with JS and CSS3</h4>
-          <p>Self Study and Project Use</p>
       </div>
            
   </div>
@@ -131,15 +125,6 @@
             IT Passport
           </div>
           <h4 class="cardList_title">IT Passport</h4>
-          <p>Self Study and Project Use</p>
-      </div>
-
-      <div class="self-items5">
-          <div class="cardList_thumb">
-           Upper Class
-          </div>
-          <h4 class="cardList_title">Web Design Creators </h4>
-          <p>Self Study and Project Use</p>
       </div>
 
         <div class="self-items5">
@@ -163,12 +148,8 @@
             <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
           </div>
           <h4 class="cardList_title">Test in color coordination.</h4>
-          <p>Self Study and Project Use</p>
     </div>
-           
   </div>
-  
-  <img src="@/assets/img/github-mark.svg" alt="Logo" class="img-git">
 </div>
 </template>
 

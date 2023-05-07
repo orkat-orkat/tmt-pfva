@@ -78,7 +78,19 @@
   margin-right:0;
 }
 
-
+.self-items4{
+  background: #00A8F4;
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  margin:0.4em;
+  width: 100%;
+  justify-content: center;
+  padding:0.2em;
+  color: #fff;
+}
 
 .self-items2{
     display: flex;
@@ -102,25 +114,13 @@
     padding:1em;
 }
 
-.self-items4{
-  display: flex;
-    flex-direction: column; /* 縦に並べる*/
-    margin:0 1em 0 0;
-    width: 30%;
-    background-color: #65700fe8;
-    border-radius: 0.5em;
-    color: #ccc;
-    padding:1em;
-}
-
 .self-items5{
-    background: #2589CF;
+    background: #ffffff;
     border-radius: 8px;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     align-content: flex-start;
-    border-bottom: 2px solid #ccc;
     margin:0.4em;
     width: 100%;
     justify-content: center;
@@ -135,6 +135,8 @@
 .self-items5:last-child{
   margin-right:0;
 }
+
+.self-items5 p{text-align: center; width: 100%;}
 
 .output-items{
     display: flex;
@@ -290,7 +292,6 @@
   /*color:#ccc;*/
   width: 100%;
   margin-bottom: 0.4em;
-  border-bottom: 1px dashed rgb(0, 206, 229);
   padding-bottom: 0.2em;
 }
 
@@ -385,7 +386,7 @@
 }
 .cardList_title{
     text-align: center;
-    color: #eeeeee;
+    color: #580707;
     padding-bottom: 10px;
     width: 100%;
 }
@@ -557,7 +558,7 @@ color: green;
         color:rgb(67, 67, 3);
   }
 
-  .self-items5 p{text-align: center; width: 100%;}
+
 
   /* CV */
   

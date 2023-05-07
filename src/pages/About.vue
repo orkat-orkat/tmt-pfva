@@ -25,20 +25,20 @@ import Feature from '@/pages/Feature.vue'
 
 
     <div class="self-wrap">
-        <div class="self-items5">
+        <div class="self-items4">
         User Research <br>（ユーザー理解）
       </div>
       
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-items5">
+      <div class="self-items4">
         User Experience<br>（体験構築）
       </div>
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-items5">
+      <div class="self-items4">
         Business Requirement<br>(要件定義)
       </div>
       <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-items5">
+      <div class="self-items4">
         Technology<br>（技術）
       </div>
   </div>
