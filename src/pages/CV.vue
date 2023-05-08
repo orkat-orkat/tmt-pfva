@@ -10,23 +10,23 @@ import Skills from '@/pages/Skills.vue'
     <h6 class="subtitle4 workexperience">Work Expreience</h6>
 
     <ul class="cv-list">
-      <li class="list-short-text cv-year">2022</li>
+      <li class="list-short-text cv-year">2021 - 2023</li>
       <li class="list-short-text edu-school">Fujisoft : System Integrator</li>
       <li class="list-long-text">UX Design at Sony HCD Division</li>
     </ul>
     <ul class="cv-list">
-      <li class="list-short-text cv-year">2020-2014</li>
+      <li class="list-short-text cv-year">2020 - 2014</li>
       <li class="list-short-text edu-school">Avanade : System Integrator</li>
       <li class="list-long-text">Experience Designer</li>
     </ul>
 
     <ul class="cv-list">
-      <li class="list-short-text cv-year">- 2013</li>
+      <li class="list-short-text cv-year">2011 - 2013</li>
       <li class="list-short-text edu-school">BP-net : Web production</li>
-      <li class="list-long-text">Web Designer, Director at NHK (NHK World)</li>
+      <li class="list-long-text">Web Designer, Web Director at NHK (NHK World)</li>
     </ul>
     <ul class="cv-list">
-      <li class="list-short-text cv-year">-</li>
+      <li class="list-short-text cv-year">Before </li>
       <li class="list-short-text edu-school">Working at web production company </li>
     </ul>
 

@@ -3,7 +3,7 @@
   <h4 class="subtitle1">Hi</h4>
   <div class="self-wrap">
     <ul class="top-box-list">
-            <li>Welcome to Tommy's Portofolio</li>
+            <li>Welcome to Tommy's Portofolio site. This site mainly shows my career history.</li>
             <li>I live in Tokyo.</li>
             <li>I Love design, technology and make people happy.</li>
         </ul>
@@ -15,15 +15,15 @@
     <ul class="top-box-list top-contents">
     <li style="font-weight:bold;"> How can I contribute. </li>
     <li>My profession is create Business Apps based with UX field.</li>
-    <li>Create interface / Define requirements / IA / User Research</li>
-    <li>Create interface / Define requirements / IA / User Research</li>
+    <li>Main output is create interface / Define requirements / IA / User Research etc...</li>
+    <li>I had been use Azure, AWS, GCP and other platforms. I like large-scale development and I'd like to contribute to those project.</li>
   </ul>
     <ul class="top-box-list top-contents">
     <li>I understand .... </li>
-    <li>Create Prototypes </li>
     <li>Design Thinking </li>
     <li>User Research (User Test, User) </li>
     <li>Front Engineering </li>
+    <li>Creating Prototypes </li>
     <li>Digital Platforms, Cloud (Azure and AWS) </li>
     <li>Web/App Developping Method (Agile) </li>
     <li>Project Management</li>
