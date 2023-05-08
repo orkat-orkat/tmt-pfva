@@ -14,87 +14,10 @@ import Projects from '@/pages/Projects.vue'
         </ul>
     </div>
 
-    <h4 class="subtitle4">Work History</h4>
-    <ol class="timeline-003">
-        <li class="prev">Coding</li>
-        <li class="prev">Web Designer</li>
-        <li class="prev">Experience Designer / SE</li>
-        <li class="current">UX Designer</li>
-        <li>NEXT STAGE</li>
-    </ol>
-
-
-    <div class="self-wrap">
-        <div class="self-items5">
-        User Research <br>（ユーザー理解）
-      </div>
-      
-      <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-items5">
-        User Experience<br>（体験構築）
-      </div>
-      <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-items5">
-        Business Requirement<br>(要件定義)
-      </div>
-      <div class="self-history"><font-awesome-icon :icon="['fas', 'plus']" /></div>
-      <div class="self-items5">
-        Technology<br>（技術）
-      </div>
-  </div>
-
-    <p class="about-txt">上記を軸にして仕事をしています。<br>将来はプロダクトやサービス全体の専門家として、もっと経験を積みたいと思っています。<br>
-        興味があるのは、DXや業務改善、労働改善からの → 経営改善アプローチです。<br>
-        チームメンバーとコミュニケーションをとりながらプロダクト改善、プロダクト開発に貢献していきたいです。<br>
-        理想の働き方はリモートワークで、海外からでも仕事をできるにようになりたいです。
-    </p>
  
   <!--- Project pageから-->
   <div class="about-project">
     <Projects />
-  </div>
-
-
- 
-  <h4 class="subtitle1">Certs</h4>
-  <div class="self-wrap">
-    <div class="self-items5">
-          <div class="cardList_thumb">
-            <img src="@/assets/img/182101294_uc_admark_4C.jpg" alt="" class="" width="50%">
-          </div>
-          <h4 class="cardList_title">Test in color coordination.</h4>
-          <p>Self Study and Project Use</p>
-    </div>
-
-
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              IT Passsport 
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p class="">Self Study and Project Use</p>
-      </div>
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              Toeic 755
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              絵が入る
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
-      <div class="self-items5">
-          <div class="cardList_thumb">
-              絵が入る
-          </div>
-          <h4 class="cardList_title">XXXXXX</h4>
-          <p>独学と！プロジェクト</p>
-      </div>
   </div>
 
   </div><!-- contents-->

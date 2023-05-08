@@ -6,7 +6,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
 
 <template>
-  <h4 class="subtitle1">Feature Project List</h4>
+  <h4 class="subtitle1">Impressive projects</h4>
   <nav class="sub-end-nav">
     <li><RouterLink to="/English">English</RouterLink></li>
     <li><RouterLink to="/ProjectList">Other Project</RouterLink></li>

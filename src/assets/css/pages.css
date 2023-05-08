@@ -549,13 +549,12 @@ color: green;
    
     }
 
-  
-
 
   /* Skills */
 
   .cv-skills{
         color:rgb(67, 67, 3);
+        margin-top:2em;
   }
 
 
@@ -576,13 +575,7 @@ color: green;
     color: #3f3f3f;
   }
 
-  ul.cv-list{ 
-    display: flex;
-    justify-content: flex-start;
-    width: 100%;
-    padding:0 2% 2%;
-    
-  }
+
 
   .cv-list li{
     line-height: 1.4;
@@ -592,13 +585,13 @@ color: green;
     align-items: center;
   }
 
+
+
   li.list-short-text{
     margin-right: 2em;
-    width: 30%;
   }
   
   li.list-long-text{
-    min-width: 40%;
     margin-right: 2em;
   }
 
@@ -622,16 +615,27 @@ color: green;
   .certs{
     color: #6f5fa0;
     margin-bottom:0.4em;
+   
   }
 
   .skills{
     color:#a05f83;
-    margin-bottom:0.4em;
+    min-width: 8em;
   }
 
   .other{
     color:#a0895f;
     margin-bottom:0.4em;
+    min-width: 8em;
+  }
+
+  li.cv-year{
+    min-width: 8em;
+    border-bottom: none;
+  }
+
+  li.edu-school{
+    min-width: 16em;
   }
  
 
@@ -646,4 +650,5 @@ color: green;
 /* font-awsome用*/
   
   .fa{
-    margin-right: 1em;}
+    margin-right: 1em;
+  }
