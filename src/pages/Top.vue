@@ -15,13 +15,15 @@
     <ul class="top-box-list top-contents">
     <li style="font-weight:bold;"> How can I contribute. </li>
     <li>My profession is create Business Apps based with UX field.</li>
-    <li>Main output is create interface / Define requirements / IA / User Research etc...</li>
+    <li>Main output is User research deliverables which has created with appropriate project frame works. <br>
+      Also it often includes define requirements, IA and creating interface design etc...</li>
     <li>I had been use Azure, AWS, GCP and other platforms. I like large-scale development and I'd like to contribute to those project.</li>
   </ul>
     <ul class="top-box-list top-contents">
     <li>I understand .... </li>
     <li>Design Thinking </li>
-    <li>User Research (User Test, User) </li>
+    <li>Human-Centred Design  </li>
+    <li>User Research </li>
     <li>Front Engineering </li>
     <li>Creating Prototypes </li>
     <li>Digital Platforms, Cloud (Azure and AWS) </li>
@@ -38,6 +40,7 @@
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
     <li class="bold">[2023]</li>
+    <li class="list-history-items">May.10 -- 英文を変更した。</li>
     <li class="list-history-items">May.2 -- コンテンツの内容を追記した。</li>
     <li class="list-history-items">April.27 -- 壊れていた表示は後で変更。大枠が崩れないようにした。細かい修正は、今後行う。</li>
     <li class="list-history-items">April.13 -- 以前断念したVueに手を出してしまったので頑張って理解しようとしている。</li>
@@ -47,8 +50,8 @@
     <li class="list-history-items">前のデザインも気に入っていたけれど、もっと手軽に更新したいと思い引越しの予定を立てた</li>
 </ul>
 
-<p class="about-txt">Sorry, This website don't use any css-frameworks, so it does not appropreate to see from smmartphone at this moment. <br >
-        I will fix it near future. I am thinking to use tailwindcss or vuetify.<br>
+<p class="about-txt"> This website is appropriate to see from PC / Mac at this moment. <br >
+        I will fix it near future.
     </p>
 
   </div><!-- contents-->

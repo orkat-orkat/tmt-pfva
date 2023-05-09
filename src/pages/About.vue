@@ -14,9 +14,9 @@ import Feature from '@/pages/Feature.vue'
         </ul>
     </div>
 
-    <h4 class="subtitle4">Work History</h4>
+    <h4 class="subtitle4">Career History</h4>
     <ol class="timeline-003">
-        <li class="prev">Coding</li>
+        <li class="prev">Coder</li>
         <li class="prev">Web Designer</li>
         <li class="prev">Experience Designer / SE</li>
         <li class="current">UX Designer</li>
@@ -44,7 +44,7 @@ import Feature from '@/pages/Feature.vue'
   </div>
 
     <p class="about-txt">将来はプロダクトやサービス、業務全体の専門家になれるよう、経験を積みたいと思っています。<br>
-        興味があるのは、DXや業務改善、労働改善からの → 経営改善アプローチです。<br>
+        興味があるのは、DXや業務改善、労働環境改善からの経営改善アプローチです。<br>
         チームメンバーとコミュニケーションをとりながらプロダクト改善、プロダクト開発に貢献していきたいです。<br>
         理想の働き方はリモートワークで、海外からでも仕事をできるにようになりたいです。
     </p>

@@ -36,20 +36,20 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト目的</li>
-          <li class="pjt-overview-txt2">プロジェクトが解決しようとしている問題や課題</li>
+          <li class="pjt-overview-txt2">機能概要資料作成</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
           <li class="pjt-overview-txt2">前モデルからの次世代モデルに搭載する新機能に関するUXレビューと評価を行う。<br />
-            競合リサーチと、マーケット評価によるユーザーリサーチ結果を、機能に反映するためのドキュメント作成を担当。<br />
+            現行の機能調査、競合リサーチ、マーケット評価によるユーザーリサーチ結果を、機能に反映するためのドキュメント作成を担当。<br />
             デザインチームと一緒に、プロトタイプを作成</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
           <li class="pjt-overview-txt2">機能概要資料<br >
             海外向けラジオ機能、衛星ラジオ機能、独自音楽再生機能、CarApp、Android Auto、カースピーカー操作など、新機能追加に関してUX視点からの機能概要資料を作成。<br />
-            資料のフォーマット化については、段階的詳細化をベースとし、クライアント社内のUXメソッド開発者によるレビューを実施。<br />
-            新機能についても、社内の機能検討会での承認を経て、画面設計を行ない、社内のUXルールに沿って、クォリティコントロールを実施。
+            資料のフォーマット化については、段階的詳細化をベースとし、クライアント社内のUXメソッド開発者による詳細なレビューを実施。<br />
+            担当した新機能の資料化については、社内の機能検討会での承認を経て、画面設計を行ない、社内のUXライティングルールや、書類の書き方を踏襲していくことでクォリティコントロールに努め、レビューの効率化に貢献した。
             海外向け製品のため、実際に期待通りに動くか、ユースケース、テスト条項を作成した。<br />
             実地で動作を確認し、失敗した理由を、各機能の担当者にフィードバックを行い、ラジオなどは規格の調査を担当した。</li>
         </ul>
@@ -60,8 +60,8 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         <li style="text-align: center;"><img src="src/assets/img/sony_XAV-9500ES_002.png" alt="" style="width:70%;"></li>
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
-        S社では、UXチームが経験豊富なため、非常に楽しく仕事ができた。特にファシリテーション方法や、UXの技術には独自の観点でのレビューを作り上げており、
-    UXプロジェクトを確実にプロダクトに活かしてしており、やりがいがあった。<br />
+        S社では、UXチームが経験豊富なため、非常に楽しく、質の高い仕事ができた。特にファシリテーション方法や、UXの技術には独自の観点でのレビューを作り上げており、
+    UXプロジェクトの結果を確実にプロダクトに反映しており、やりがいがあった。<br />
     印象的なのは、チーム内での振り返りの技術であり、心理的安全性の担保が保たれていて、興味深かった。<br>
     また、すでにある機能や、仕様の説明をUX観点から書き直す作業も、仕様書の書き方を再勉強する機会になった。</li>
       </ul>
@@ -82,7 +82,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">チームの人数</li>
-          <li class="pjt-overview-txt2">10名</li>
+          <li class="pjt-overview-txt2">４名</li>
         </ul>
        
         <ul class="pjt-overview-list1">
@@ -92,7 +92,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト目的</li>
-          <li class="pjt-overview-txt2">製品ごとに増えたアプリに共通の世界観を持たせ、操作上の問題を解決するための次世代音楽再生機器アプリ作成</li>
+          <li class="pjt-overview-txt2">増えたアプリに共通の世界観を持たせた、操作上の問題を解決するための次世代音楽再生機器アプリ作成</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
@@ -105,21 +105,21 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
           <li class="pjt-overview-txt2">
             ユーザーフロー図<br >
             データ上で利用者調査を行い、製品の価値を上げるための施作を考えた。<br >
-他社のアプリの調査、 現状ギャップを把握するところからはじめ、今後の理想の姿を可視化できるようにした。<br >
- アウトプットとして、競合調査資料、操作説明のための画面遷移などが含まれ、
-         機能検討に関しては社の書式が、目的に沿ったフォーマットで表現できるかなど、
+            他社のアプリの調査、 現状ギャップを把握するところからはじめ、今後の理想の姿を可視化できるようにした。<br >
+            アウトプットとして、競合調査資料、操作説明のための画面遷移などが含まれ、機能検討に関しては社の書式が、目的に沿ったフォーマットで表現できるかなど、
          ドキュメントのあり方を意識して作った。</li>
         </ul>
       </div>
      </div>
-    <div class="tbl_box_3 br-2">アウトプット: 
+    <div class="tbl_box_3 br-2">アウトプット : 
       <ul>
         <li>NDA --- No Image</li>
         <li style="text-align: center;">
           <div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.4;"></div></li>
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
-        参画した期間は短かったが、BtoCのアプリでもHCDやこれまでの学びを改めて実践的に活かすことができ、楽しかった。</li>
+        参画した期間は短かったが、BtoCのアプリでもHCDやこれまでの学びを改めて実践的に活かすことができ、楽しかった。<br />
+        アプリの調査をメインに行い、最終的にハブアプリを作ることになった。将来的にはさらに統合されるかもしれないが、現時点での問題点、それを解決するためのゴールを見つけることができたので、安心して次のフェーズに引き渡すことができた。</li>
       </ul>
     </div>
 </div>
@@ -129,38 +129,41 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       <div class="">
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト概要</li>
-          <li class="pjt-overview-txt2">次世代音楽アプリ作成プロジェクト<br />UXリサーチ</li>
+          <li class="pjt-overview-txt2">金融アプリのデザインコンサル</li>
         </ul>
 
         <ul class="pjt-overview-list1">
-        <li class="pjt-overview-txt">クライアント名 <br /> 業種 </li>
-        <li class="pjt-overview-txt2">SXXX <br /> エンターテイメント (音楽)</li>
+        <li class="pjt-overview-txt">クライアント名<br /> 業種 </li>
+        <li class="pjt-overview-txt2">FXXX <br /> 金融 (株価)</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">チームの人数</li>
           <li class="pjt-overview-txt2">16名</li>
         </ul>
+        <ul class="pjt-overview-list1">
+          <li class="pjt-overview-txt">役割</li>
+          <li class="pjt-overview-txt2">デザインコンサルタント</li>
+        </ul>
        
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクトの期間</li>
-          <li class="pjt-overview-txt2">3ヶ月</li>
+          <li class="pjt-overview-txt2">３週間</li>
         </ul>
 
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト目的</li>
-          <li class="pjt-overview-txt2">プロジェクトの背景として、数の増えすぎたアプリの統合を検討する必要があった。</li>
+          <li class="pjt-overview-txt2">デザインを外注した際に発生してしまったデザインに関するフィードバックと、UX観点でのアドバイス作成</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
           <li class="pjt-overview-txt2">
-            競合リサーチと、マーケット評価によるユーザーリサーチ結果を、機能に反映するためのドキュメント作成を担当。<br />
-            デザインチームと一緒に、プロトタイプを作成</li>
+            現行アプリについてヒューリスティック調査を行い、使い勝手が、基準を満たさない事項に関して、今後の施作にむけたアドバイスを行なった。
+           </li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
           <li class="pjt-overview-txt2">
-            利用者調査を踏まえた、製品の価値を上げるための施作を考えた。<br >まず他社のアプリをさまざまな角度から調査した。そして
-          現状ギャップを把握するところからはじめ、今後の理想の姿を作成した。<br >競合調査、現在の製品に対するヒューリスティック調査、ユーザー調査などを行う。</li>
+            主にヒューリスティック調査を担当し、説明資料作りと、顧客に向けたフィードバックコメントを作成した。</li>
         </ul>
       </div>
      </div>
@@ -168,7 +171,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       <ul>
         <li style="text-align:center;"><div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.4;"></div></li>
         <li>その他 : 学んだことや感想</li>
-        <li style="font-weight: lighter;">アプリの調査をメインに行い、最終的にハブアプリを作ることになった。将来的にはさらに統合されるかもしれないが、現時点での問題点、それを解決するためのゴールを見つけることができたので、安心して次のフェーズに引き渡すことができた。
+        <li style="font-weight: lighter;">
         </li>
       </ul>
     </div>
@@ -279,6 +282,9 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       </ul>
     </div>
 </div>
+<p><RouterLink to="/ProjectList">その他、多くのプロジェクトに参画した経験があります(Written in English)</RouterLink></p>
+
+
 
 </template>
 

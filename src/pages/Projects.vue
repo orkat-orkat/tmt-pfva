@@ -99,7 +99,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     <div class="tbl_box_1 br-1">Past Project</div>
     <div class="tbl_box_2">Industry</div>
     <div class="tbl_box_3">Phase / Output</div>
-    <div class="tbl_box_3 br-2">Assigned as </div>
+    <div class="tbl_box_3 br-2">Assigned Position </div>
   </div>
 
   <div class="tbl_container">
@@ -112,15 +112,15 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
   <div class="tbl_container touka">
     <div class="tbl_box_1">[Truck Company] CMS開発をUX上流工程から参画</div>
     <div class="tbl_box_2">Logistics / Truck </div>
-    <div class="tbl_box_3">/ UX /</div>
-    <div class="tbl_box_3">Experience Designer </div>
+    <div class="tbl_box_3">UX</div>
+    <div class="tbl_box_3">Experience Designer</div>
   </div>
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Logistic] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</div>
     <div class="tbl_box_2">Logistic /</div>
     <div class="tbl_box_3">Test Phase, Kitting</div>
-    <div class="tbl_box_3">Tester / Sub-Leader /SE</div>
+    <div class="tbl_box_3">Tester / Sub-Lead / SE</div>
   </div>
 
   <div class="tbl_container touka">
@@ -148,7 +148,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     <div class="tbl_box_1">[Apparel] ユニクロ社内の人材開発教材アプリと従業員用のトレーニング用アプリ作成</div>
     <div class="tbl_box_2">Apparel / Clothes</div>
     <div class="tbl_box_3">Business Apps / UX (Define Phase)</div>
-    <div class="tbl_box_3">Experience Designer </div>
+    <div class="tbl_box_3">Experience Designer <br>Frontengineer</div>
   </div>
 
   <div class="tbl_container touka">
@@ -160,9 +160,9 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
   <div class="tbl_container">
     <div class="tbl_box_1 br-3">[他] その他SEとして</div>
-    <div class="tbl_box_2">さまざまな業界のサイト、アプリ</div>
+    <div class="tbl_box_2">Other </div>
     <div class="tbl_box_3">検索サイト、イントラサイトなどの設計フェーズでデザイナーとSEの兼任<br />要件定義、要求分析、 基本設計、コーディング</div>
-    <div class="tbl_box_3 br-4">SE</div>
+    <div class="tbl_box_3 br-4">SE / Frontengineer</div>
   </div>
 
 
