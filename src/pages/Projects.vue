@@ -8,7 +8,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 <template>
   <h4 class="subtitle1">Past Project List</h4>
   <p><RouterLink to="/English">English</RouterLink></p>
-  <div class="self-wrap" style="margin-bottom: 3em;">
+  <div class="self-wrap" style="">
       <div class="about-box">
         <h5 class="about-sub-title">Project List</h5>
         <ul class="about-box-list project-skills">

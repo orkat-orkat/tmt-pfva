@@ -15,14 +15,15 @@
     <ul class="top-box-list top-contents">
     <li style="font-weight:bold;"> How can I contribute. </li>
     <li>My profession is create Business Apps based with UX field.</li>
-    <li>Main output is User research deliverables which has created with appropriate project frame works. <br>
-      Also it often includes define requirements, IA and creating interface design etc...</li>
+    <li>I have experience in creating user research deliverables with appropriate project frameworks. This often includes defining requirements, creating information architecture, and designing interfaces.</li>
     <li>I had been use Azure, AWS, GCP and other platforms. I like large-scale development and I'd like to contribute to those project.</li>
+    <li>I am passionate about making people happy through my work. I have a strong interest in understanding business processes, creating innovative products that can help free people from tedious work and contribute to my clients' businesses.
+<br>
+Additionally, I am also interested in developing apps that can assist in times of disaster, or help solve problems that have yet to be discovered.</li>
   </ul>
     <ul class="top-box-list top-contents">
     <li>I understand .... </li>
-    <li>Design Thinking </li>
-    <li>Human-Centred Design  </li>
+    <li>Design Thinking / Human-Centred Design process</li>
     <li>User Research </li>
     <li>Front Engineering </li>
     <li>Creating Prototypes </li>
@@ -31,8 +32,19 @@
     <li>Project Management</li>
   </ul>
 
+  <ul class="top-box-list top-contents">
+    <li>I am studying </li>
+    <li>Behaviour Economics</li>
+    <li>User Research techniques</li>
+    <li>Front Engineering </li>
+    <li>No code and Low Code app editing</li>
+    <li>Fascilitation Skill</li>
+    <li>Project Management</li>
+  </ul>
+
   </div>
   <div class="child last-child">
+    <img src="@/assets/img/3DevicesMock.png" alt="design" class="" width="80%">
     <img src="@/assets/img/3DevicesMock.png" alt="design" class="" width="80%">
 </div>
 

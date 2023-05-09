@@ -1,22 +1,22 @@
 <template>
     <div class="contents">
-      <h4 class="subtitle1">English Summary Page </h4>
+      <h4 class="subtitle1">English Project List Page </h4>
       <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'Top' }" >Back</RouterLink> To Japanese Top page</small>
 
-  <div class="self-wrap">
+  <div class="self-wrap" style="padding-bottom: 2em;">
       <div class="about-box">
-        <h5 class="about-sub-title">Recent Project List</h5>
+        <h5 class="about-sub-title">Recent Project List (2020-2022)</h5>
         <ul class="about-box-list project-li">
-            <li>[SXXX] Participation in the development of next-generation in-vehicle products.</li>
-            <li>[SXXX] Participation in the development of UX experiences for music hub app.</li>
-            <li>[FXXX] User Rsearch on improving venture finance websites.</li>
-            <li>[FXXX] UI development for drone operation screens</li>
-            <li>[FXXX] UI Development for Car dispatch apps etc.</li>
+          <li>Contributed to the development of next-generation in-vehicle products, including functional overview document.</li>
+            <li>Developed UX experiences for a music hub app, which led to the creation of the app in the next phase.</li>
+              <li>Conducted user research to improve venture finance websites and consulted on their interface design.</li>
+                <li>Designed UI for drone operation screens, resulting in design systems.</li>
+                  <li>Developed UI for car dispatch apps, which led to the creation of an innovative app.</li>
         </ul>
       </div>
      
       <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">UX Researcher / UX Designer</h5>
+        <h5 class="about-sub-title">Role : UX Researcher / UX Designer</h5>
         <ul class="about-box-list project-skills">
             <li>Heuristic research</li>
             <li>Design research</li>
@@ -27,50 +27,45 @@
       </div>
   </div>
 
-    <div class="self-wrap">
+    <div class="self-wrap" style="padding-bottom: 2em;">
       <div class="about-box">
-        <h5 class="about-sub-title">Past Project List</h5>
+        <h5 class="about-sub-title">Past Project List (2014-2020)</h5>
         <ul class="about-box-list project-li">
             <li style="font-weight:bold">Participated in many projects using Microsoft products and technologies.</li>
-            <li>[Oil Company] Major oil company internal systems renewal.</li>
-            <li>[Truck Company] Participation in CMS development for DX purposes from the UX upstream process.</li>
-            <li>[Logistics] Participation in CMS development for DX purposes from the UX upstream process Participation as sub-leader in the testing phase of a large-scale PC migration project.</li>
-            <li>[Heavy Vehicles] Participated in a PoC project to develop next-generation heavy equipment vehicles using Azure, creating screens and proposals.</li>
-            <li>[Agriculture] Agricultural production management system construction (PoC).</li>
-            <li>[Apparel] Created apps for internal UNIQLO HR development materials and training apps for employees.</li>
-            <li>[Education] ICT apps for schools for primary school children.</li>
-            <li>[VR] Develop VR contents with other UX members.</li>
-            <li>[Other / In-house]Support and consultation for foreign employees.</li>
-        </ul>
-      </div>
-      <div class="self-items3 self-item-sub1">
-        <h5 class="about-sub-title">Experience Industry</h5>
-        <ul class="about-box-list project-prod">
-            <li>Car / Automotive products</li>
-            <li>Agriculture</li>
-            <li>Logistics</li>
-            <li>Education</li>
-            <li>Company Portal System renewal</li>
-            <li>etc...</li>
-        </ul>
-      </div>
+            <li>[Oil Company] - Participated in the internal systems renewal project of a major oil company.</li>
+              <li>[Truck Company] - Contributed to CMS development for DX purposes by leading the UX upstream process.</li>
+                <li>[Logistics] - Played a sub-leader role in the testing phase of a large-scale PC migration project while contributing to CMS development for DX purposes from the UX upstream process.</li>
+                  <li>[Heavy Vehicles] - Took part in a PoC project that aimed to develop next-generation heavy equipment vehicles using Azure, proposing and creating screens for the project.</li>
 
+                    <li>[Agriculture] - Conducted a PoC project for the construction of an agricultural production management system.</li>
+
+                      <li>[Apparel] - Developed apps for internal UNIQLO HR development materials and employee training purposes.</li>
+
+                        <li>[Education] - Developed ICT apps for primary school children to be used in schools.</li>
+
+                          <li>[VR] - Collaborated with other UX members to create VR content.</li>
+
+                            <li>[Other / In-house] - Provided support and consultation for foreign employees.</li>
+        </ul>
+      </div>
+      
       <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">How I Contributed</h5>
-        <ul class="about-box-list project-skills">
-            <li>O365 Migration </li>
-            <li>Scrern Design</li>
-            <li>PoC</li>
-            <li>RD：Requirement Definition</li>
-            <li>SR：System Analysis</li>
-            <li>Basic Design</li>
-            <li>Unit Test / </li>
-            <li>Company Portal</li>
+        <h5 class="about-sub-title">How I Contributed / Experience Designer</h5>
+        <ul class="about-box-list project-li">
+            <li>Contributed to the successful O365 migration project, ensuring seamless integration and minimal disruption to daily operations.</li>
+            <li>Designed screens for various systems, ensuring intuitive and user-friendly interfaces.</li>
+            <li>Conducted PoC (Proof of Concept) projects to test and refine new ideas and technologies.</li>
+            <li>Participated in requirement definition (RD) and system analysis (SR) phases of project development to ensure alignment with business needs and objectives.</li>
+            <li>Contributed to basic design efforts, ensuring optimal functionality and performance.</li>
+            <li>Conducted unit testing to identify and resolve bugs and issues.</li>
+            <li>Helped develop and maintain the company portal, ensuring accurate and up-to-date information was readily available to employees.</li>
         </ul>
       </div>
   </div>
 
-  <div class="self-wrap">
+
+
+  <div class="self-wrap" style="padding-bottom: 2em;">
       <div class="about-box">
         <h5 class="about-sub-title">Other Past Project List</h5>
         <ul class="about-box-list project-li">
@@ -80,7 +75,7 @@
         </ul>
       </div>
       <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">In-House Web Designer Coding</h5>
+        <h5 class="about-sub-title">Role : In-House Web Designer</h5>
         <ul class="about-box-list project-skills">
             <li>Web Design / Coding</li>
             <li>Graphic Design</li>
@@ -93,16 +88,16 @@
 
 <div class="output">
   <h4 class="subtitle1">Output</h4>
-  <h4 class="subtitle4">Deliverables</h4>
+  <h4 class="subtitle4">Deliverables list for a UX design project</h4>
     <div class="self-wrap">
       <div class="output-items">
             User Research
           </div>
           <div class="output-items">
-            Interview / Survey
+            Interview / Survey 
           </div>
           <div class="output-items">
-            Worekshop
+            Workshop
           </div>
           <div class="output-items">
             Customer J Map
