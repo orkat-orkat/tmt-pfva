@@ -8,7 +8,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 <template>
   <h4 class="subtitle1">Past Project List</h4>
   <p><RouterLink to="/English">English</RouterLink></p>
-  <div class="self-wrap" style="">
+  <div class="self-wrap" style="margin-bottom: 3em;">
       <div class="about-box">
         <h5 class="about-sub-title">Project List</h5>
         <ul class="about-box-list project-skills">
@@ -17,15 +17,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
             <li>[FXXX]ン操作用画面、車の配車アプリなどのUI開発</li>
         </ul>
       </div>
-      <div class="self-items3 self-item-sub1">
-        <h5 class="about-sub-title">対象製品、サービス</h5>
-        <ul class="about-box-list project-prod">
-            <li>次世代車載製品</li>
-            <li>MDR(ヘッドホン、音楽アプリ、ハブアプリ)</li>
-            <li>社内UX人材教育資料作成</li>
-            <li>ドローン用UI開発</li>
-        </ul>
-      </div>
+      
       <div class="self-items3 self-item-sub2">
         <h5 class="about-sub-title">UX Researcher / UX Designer</h5>
         <ul class="about-box-list project-skills">
