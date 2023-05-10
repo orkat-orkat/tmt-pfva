@@ -6,30 +6,38 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
 
 <template>
-  <h4 class="subtitle1">Past Project List</h4>
+  <h4 class="subtitle1">過去に参画したプロジェクト</h4>
   <p><RouterLink to="/English">English</RouterLink></p>
 
   <div class="tbl_container about-sub-title" style="margin-top:2em">
-    <div class="tbl_box_1 br-1">About Project</div>
-    <div class="tbl_box_3">Phase / Output /Product</div>
-    <div class="tbl_box_3 br-2">As UX Designer </div>
+    <div class="tbl_box_1 br-1">プロジェクト概要</div>
+    <div class="tbl_box_3">フェーズ / アウトプット / 担当製品やサービスなど</div>
+    <div class="tbl_box_3 br-2">UX Designerとしての成果</div>
   </div>
-
   <div class="tbl_container">
-    <div class="tbl_box_1">[SXXX]次世代車載製品</div>
-    <div class="tbl_box_3">Car Navigation</div>
+    <div class="tbl_box_1">[SXXX]UX人材開発資料の作成</div>
+    <div class="tbl_box_3">UXを誰でも利用できるよう、人材開発部署と一緒に、UX資料を作成</div>
     <div class="tbl_box_3">
       <ul class="about-box-list project-skills">
             <li>人材開発資料作成</li>
         </ul>
     </div>
   </div>
+
   <div class="tbl_container">
-    <div class="tbl_box_1">[SXXX]音楽アプリのUX体験開発</div>
-    <div class="tbl_box_3">Music Apps</div>
+    <div class="tbl_box_1">[SXXX]次世代車載製品</div>
+    <div class="tbl_box_3">新製品向けカーナビ機能概要書作成</div>
     <div class="tbl_box_3">
       <ul class="about-box-list project-skills">
-            <li>デザインシステム作成</li>
+            <li>UX観点での機能説明資料作成</li>
+        </ul>
+    </div>
+  </div>
+  <div class="tbl_container">
+    <div class="tbl_box_1">[SXXX]音楽アプリのUX体験開発</div>
+    <div class="tbl_box_3">音楽機器コントロール用アプリ</div>
+    <div class="tbl_box_3">
+      <ul class="about-box-list project-skills">
             <li>デザインリサーチ</li>
         </ul>
     </div>
@@ -75,15 +83,15 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
 
   <div class="tbl_container about-sub-title" style="margin-top:2em">
-    <div class="tbl_box_1 br-1">Past Project</div>
+    <div class="tbl_box_1 br-1">過去のプロジェクト</div>
     
-    <div class="tbl_box_3">Phase / Output</div>
-    <div class="tbl_box_3 br-2">Assigned Position </div>
+    <div class="tbl_box_3">フェーズ / アウトプット / 担当製品やサービスなど</div>
+    <div class="tbl_box_3 br-2">ポジション・役割</div>
   </div>
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Oil Company] 大手石油会社内部システム刷新</div>
-    <div class="tbl_box_3">Support Project manager and Business Process Management</div>
+    <div class="tbl_box_3">PMOとしてPMのサポートと、プロジェクト内部向けの展開資料作成</div>
     <div class="tbl_box_3">PMO</div>
   </div>
 
@@ -96,37 +104,37 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
   <div class="tbl_container">
     <div class="tbl_box_1">[Logistic] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</div>
   
-    <div class="tbl_box_3">Test Phase, Kitting</div>
-    <div class="tbl_box_3">Tester / Sub-Lead / SE</div>
+    <div class="tbl_box_3">テストフェーズ, キッティング</div>
+    <div class="tbl_box_3">テスター / サブリーダー / SE</div>
   </div>
 
   <div class="tbl_container touka">
     <div class="tbl_box_1">[Heavy equipment / Intra] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、重機と人のデータ表示画面や提案書を作成</div>
-    <div class="tbl_box_3">Business Apps / Screen layout / PoC </div>
+    <div class="tbl_box_3">車載アプリ画面のデザイン、設計、構築 / Screen layout / PoC </div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Logistic / Intra ] 大規模PCマイグレーションプロジェクトのテストフェーズ、サブリーダーとして参画</div>
-    <div class="tbl_box_3">Test Phase / 単体テスト / 結合テスト</div>
-    <div class="tbl_box_3">Tester</div>
+    <div class="tbl_box_3">テストフェーズ / 単体テスト / 結合テスト</div>
+    <div class="tbl_box_3">テスター</div>
   </div>
 
   <div class="tbl_container touka">
     <div class="tbl_box_1">[Agriculture / Business App / PoC] 農業生産管理システム構築</div>
-    <div class="tbl_box_3">Create App screens/ UX (Define - Prototype Phase)</div>
+    <div class="tbl_box_3">農業再選管理アプリ画面作成 / UX (Define - Prototype Phase)</div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Apparel] ユニクロ社内の人材開発教材アプリと従業員用のトレーニング用アプリ作成</div>
-    <div class="tbl_box_3">Create Business Apps / UX (Define Phase)</div>
+    <div class="tbl_box_3">社内利用アプリ / UX (Define Phase)</div>
     <div class="tbl_box_3">Experience Designer <br>Frontengineer</div>
   </div>
 
   <div class="tbl_container touka">
-    <div class="tbl_box_1">[Education ICT] 小学生向けの学校用ICTアプリ</div>
-    <div class="tbl_box_3">Create ICT Apps / UX (Define Phase)</div>
+    <div class="tbl_box_1">[教育 ICT] 小学生向けの学校用ICTアプリ</div>
+    <div class="tbl_box_3">ICT アプリ作成 / UX (Define Phase)</div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
 
