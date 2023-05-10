@@ -12,7 +12,7 @@ import Skills from '@/pages/Skills.vue'
     <ul class="cv-list">
       <li class="list-short-text cv-year">2021 - 2023</li>
       <li class="list-short-text edu-school">Fujisoft : System Integrator</li>
-      <li class="list-long-text">UX Design at Sony HCD Division</li>
+      <li class="list-long-text">UX Designer at Sony HCD Division</li>
     </ul>
     <ul class="cv-list">
       <li class="list-short-text cv-year">2020 - 2014</li>

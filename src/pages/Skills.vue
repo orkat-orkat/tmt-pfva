@@ -6,7 +6,10 @@
     <div style=" display: flex;">
     <h6 class="subtitle4 skills">Adobe</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'bezier-curve']" class="fa-pull-left"/>XD / Photoshop / Illustrator / Adobe CC</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'x']" class="fa-pull-left"/>XD </li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'i']" class="fa-pull-left"/>Illustrator</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'p']" class="fa-pull-left"/>Photoshop</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'a']" class="fa-pull-left"/>Adobe CC</li>
     </ul>
   </div>
   <div style=" display: flex;">
@@ -19,17 +22,20 @@
   <h6 class="subtitle4 skills">Microsoft</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'cloud']" class="fa-pull-left"/>Azure</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>MS Office Tools</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>O365</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>Share point</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'file-word']" class="fa-pull-left"/>Power Apps</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'p']" class="fa-pull-left"/>Power Apps</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'windows']" class="fa-pull-left"/>Teams</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>VS Code</li>
     </ul>
   </div>
 
   <div style=" display: flex;">
-    <h6 class="subtitle4 skills">Programming</h6>
+    <h6 class="subtitle4 skills">Web Develop</h6>
     <ul class="cv-list">
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'html5']" class="fa-pull-left"/>HTML / CSS / JavaScript</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'python']" class="fa-pull-left"/>Python</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'html5']" class="fa-pull-left"/>HTML</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'css3']" class="fa-pull-left"/>CSS </li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'js']" class="fa-pull-left"/>/ JavaScript </li>
     </ul>
   </div>
   <div style=" display: flex;">
@@ -51,14 +57,11 @@
     <h6 class="subtitle4 other">Other Tools</h6>
     <ul class="cv-list">
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Git</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'v']" class="fa-pull-left"/>VS Code</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'confluence']" class="fa-pull-left"/>Confluence</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 's']" class="fa-pull-left"/>Subversion</li>
     
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'slack']" class="fa-pull-left"/>Slack</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'windows']" class="fa-pull-left"/>Teams</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'o']" class="fa-pull-left"/>OneDrive</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'code-branch']" class="fa-pull-left" />Zoom</li>
     </ul>
   </div>
   
@@ -70,6 +73,8 @@
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'p']" class="fa-pull-left"/>PowerAutomate</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'a']" class="fa-pull-left"/>Angular</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'i']" class="fa-pull-left"/>Ionic</li>
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'python']" class="fa-pull-left"/>Python</li>
+
     </ul>
   </div>
   
@@ -118,9 +123,9 @@
 
         <div class="self-items5">
           <div class="cardList_thumb">
-            Toeic
+            TOEIC
           </div>
-          <h4 class="cardList_title">Toeic 750</h4>
+          <h4 class="cardList_title">TOEIC 755</h4>
           <p>English</p>
       </div>
 

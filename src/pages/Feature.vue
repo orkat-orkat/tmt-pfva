@@ -165,7 +165,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
           <li class="pjt-overview-txt">Output : </li>
           <li class="pjt-overview-txt2">
             主にヒューリスティック調査を担当し、レビュー発表に向けての説明資料作りと、顧客に向けたフィードバックコメントを作成した。<br>
-            メインのファシリテーターと打ち合わせをし、実際にアプリはどうなるべきかなど改めて議論し、レビュー会に向けて説明練習を行った。
+            メインのファシリテーターと打ち合わせをし、実際にアプリはどうなるべきかなど改めて議論し、レビュー会に向けて説明練習を行い、本番に臨んだ。
           </li>
         </ul>
       </div>

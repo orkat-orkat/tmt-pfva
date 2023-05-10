@@ -140,6 +140,18 @@
 
 .self-items5 p{text-align: center; width: 100%;}
 
+.contact-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  margin:0  8px;
+  width: 400px;
+  background-color: #282828;
+  border-radius: 24px;
+  color: #ccc;
+}
+
 .output-items{
     display: flex;
     flex-wrap: wrap;
@@ -646,6 +658,7 @@ color: green;
 
   .skill-name{
     font-weight: bold;
+    min-width: 6em;
   }
 /* font-awsome用*/
   
