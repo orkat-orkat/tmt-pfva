@@ -5,7 +5,7 @@ import Projects from '@/pages/Projects.vue'
 
 <template>
   <div class="contents">
-  <h4 class="subtitle1">Project List</h4>
+  <h4 class="subtitle1">Career and Project List</h4>
 
     <h4 class="subtitle4">Career History</h4>
     <ol class="timeline-003">

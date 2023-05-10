@@ -69,7 +69,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     </div>
 </div>
 
-<div class="tbl_container about-sub-title">
+<div class="tbl_container about-sub-title" style="margin-top:2em">
     <div class="tbl_box_1 br-1">
       <div class="">
         <ul class="pjt-overview-list1">
@@ -125,7 +125,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     </div>
 </div>
 
-<div class="tbl_container about-sub-title">
+<div class="tbl_container about-sub-title" style="margin-top:2em">
     <div class="tbl_box_1 br-1">
       <div class="">
         <ul class="pjt-overview-list1">
@@ -183,7 +183,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
     </div>
 </div>
 
-<div class="tbl_container about-sub-title">
+<div class="tbl_container about-sub-title" style="margin-top:2em">
     <div class="tbl_box_1 br-1">
       <div class="">
         <ul class="pjt-overview-list1">
@@ -236,7 +236,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 </div>
 
 
-<div class="tbl_container about-sub-title">
+<div class="tbl_container about-sub-title" style="margin-top:2em">
     <div class="tbl_box_1 br-1">
       <div class="">
         <ul class="pjt-overview-list1">

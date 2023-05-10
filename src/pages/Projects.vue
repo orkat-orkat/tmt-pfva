@@ -74,7 +74,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
   </div>
 
 
-  <div class="tbl_container about-sub-title">
+  <div class="tbl_container about-sub-title" style="margin-top:2em">
     <div class="tbl_box_1 br-1">Past Project</div>
     
     <div class="tbl_box_3">Phase / Output</div>
@@ -83,7 +83,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Oil Company] 大手石油会社内部システム刷新</div>
-    <div class="tbl_box_3">Business Process Management</div>
+    <div class="tbl_box_3">Support Project manager and Business Process Management</div>
     <div class="tbl_box_3">PMO</div>
   </div>
 
@@ -102,7 +102,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
   <div class="tbl_container touka">
     <div class="tbl_box_1">[Heavy equipment / Intra] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、重機と人のデータ表示画面や提案書を作成</div>
-    <div class="tbl_box_3">Business Apps / Screen layout/ PoC </div>
+    <div class="tbl_box_3">Business Apps / Screen layout / PoC </div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
 
@@ -114,19 +114,19 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
   <div class="tbl_container touka">
     <div class="tbl_box_1">[Agriculture / Business App / PoC] 農業生産管理システム構築</div>
-    <div class="tbl_box_3">Experience Designer / UX (Define - Prototype Phase)</div>
+    <div class="tbl_box_3">Create App screens/ UX (Define - Prototype Phase)</div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
 
   <div class="tbl_container">
     <div class="tbl_box_1">[Apparel] ユニクロ社内の人材開発教材アプリと従業員用のトレーニング用アプリ作成</div>
-    <div class="tbl_box_3">Business Apps / UX (Define Phase)</div>
+    <div class="tbl_box_3">Create Business Apps / UX (Define Phase)</div>
     <div class="tbl_box_3">Experience Designer <br>Frontengineer</div>
   </div>
 
   <div class="tbl_container touka">
     <div class="tbl_box_1">[Education ICT] 小学生向けの学校用ICTアプリ</div>
-    <div class="tbl_box_3">ICT Apps / UX (Define Phase)</div>
+    <div class="tbl_box_3">Create ICT Apps / UX (Define Phase)</div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
 

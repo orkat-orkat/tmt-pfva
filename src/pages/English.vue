@@ -16,7 +16,7 @@
       </div>
      
       <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">Role : UX Researcher / UX Designer</h5>
+        <h5 class="about-sub-title">Role : UX Researcher / UX Designer / Output</h5>
         <ul class="about-box-list project-skills">
             <li>Heuristic research</li>
             <li>Design research</li>
@@ -50,9 +50,9 @@
       </div>
       
       <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">How I Contributed / Experience Designer</h5>
+        <h5 class="about-sub-title">How I Contributed / Experience Designer / Summary</h5>
         <ul class="about-box-list project-li">
-            <li>Contributed to the successful O365 migration project, ensuring seamless integration and minimal disruption to daily operations.</li>
+            <li>Contributed to the successful O365 migration project, ensuring seamless integration.</li>
             <li>Designed screens for various systems, ensuring intuitive and user-friendly interfaces.</li>
             <li>Conducted PoC (Proof of Concept) projects to test and refine new ideas and technologies.</li>
             <li>Participated in requirement definition (RD) and system analysis (SR) phases of project development to ensure alignment with business needs and objectives.</li>
