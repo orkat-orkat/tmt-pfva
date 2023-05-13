@@ -5,16 +5,7 @@ import Projects from '@/pages/Projects.vue'
 
 <template>
   <div class="contents">
-  <h4 class="subtitle1">キャリアと過去のプロジェクト</h4>
-
-    <h4 class="subtitle4">Career History</h4>
-    <ol class="timeline-003">
-        <li class="prev">Coding</li>
-        <li class="prev">Web Designer</li>
-        <li class="prev">Experience Designer / SE</li>
-        <li class="current">UX Designer</li>
-        <li>NEXT STAGE</li>
-    </ol>
+  <h4 class="subtitle1">過去のプロジェクト</h4>
  
   <!--- Project pageから-->
   <div class="about-project">

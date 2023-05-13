@@ -119,6 +119,22 @@ const routes = [
     }
   },
   {
+    path: '/Test',
+    name: 'Test',
+    component: async () => {
+      const test = await import('@/pages/Test.vue'); 
+      return test;
+    }
+  },
+  {
+    path: '/Test2',
+    name: 'Test2',
+    component: async () => {
+      const test2 = await import('@/pages/Test2.vue'); 
+      return test2;
+    }
+  },
+  {
     path: '/',
     name: 'none',
     component: async () => {

@@ -1,7 +1,7 @@
 <template>
     <div class="contents">
       <h4 class="subtitle1">English Project List Page </h4>
-      <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'Top' }" >Back</RouterLink> To Japanese Top page</small>
+      <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'ProjectList' }" >Back</RouterLink> To Japanese Project page</small>
 
   <div class="self-wrap" style="padding-bottom: 2em;">
       <div class="about-box">

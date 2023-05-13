@@ -6,8 +6,6 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
 
 <template>
-  <h4 class="subtitle1">過去に参画したプロジェクト</h4>
-  <p><RouterLink to="/English">English</RouterLink></p>
 
   <div class="tbl_container about-sub-title" style="margin-top:2em">
     <div class="tbl_box_1 br-1">プロジェクト概要</div>

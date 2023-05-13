@@ -288,7 +288,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
       </ul>
     </div>
 </div>
-<p><RouterLink to="/ProjectList">その他、多くのプロジェクトに参画した経験があります(Written in English)</RouterLink></p>
+<p><RouterLink to="/ProjectList">その他、多くのプロジェクトに参画した経験があります</RouterLink></p>
 
 
 

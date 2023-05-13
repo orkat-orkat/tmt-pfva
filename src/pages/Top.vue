@@ -52,7 +52,9 @@ Additionally, I am also interested in developing apps that can assist in times o
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
     <li class="bold">[2023]</li>
-    <li class="list-history-items">May.10 -- 英文を変更した。</li>
+    <li class="list-history-items">May.13 -- </li>
+    <li class="list-history-items">May.12 -- よく見るとVueそのものにトランジションやアニメが使えるらしい。使えるようになりたい。</li>
+    <li class="list-history-items">May.10 -- 英文を変更した。構成変更</li>
     <li class="list-history-items">May.2 -- コンテンツの内容を追記した。</li>
     <li class="list-history-items">April.27 -- 壊れていた表示は後で変更。大枠が崩れないようにした。細かい修正は、今後行う。</li>
     <li class="list-history-items">April.13 -- 以前断念したVueに手を出してしまったので頑張って理解しようとしている。</li>
