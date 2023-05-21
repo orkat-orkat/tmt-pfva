@@ -14,24 +14,14 @@
   <div class="child">
     <ul class="top-box-list top-contents">
     <li style="font-weight:bold;"> How can I contribute. </li>
-    <li>My profession is create Business Apps based with UX field.</li>
-    <li>I have experience in creating user research deliverables with appropriate project frameworks. This often includes defining requirements, creating information architecture, and designing interfaces.</li>
-    <li>I had been use Azure, AWS, GCP and other platforms. I like large-scale development and I'd like to contribute to those project.</li>
-    <li>I am passionate about making people happy through my work. I have a strong interest in understanding business processes, creating innovative products that can help free people from tedious work and contribute to my clients' businesses.
+    <li>I specialize in creating user-friendly Business Apps with a focus on UX design.</li>
+    <li>I have a proven track record of creating user research deliverables using effective project frameworks. This includes defining requirements, developing information architecture, and designing intuitive interfaces.</li>
+    <li>I am proficient in working with various platforms such as Azure, AWS, GCP, and others. I particularly enjoy working on large-scale development projects and strive to contribute to their overall success.</li>
+    <li>My ultimate goal is to bring joy to people through my work. I am deeply interested in understanding business processes and leveraging my skills to develop innovative products that streamline workflows, empower individuals, and drive client success.
 <br>
-Additionally, I am also interested in developing apps that can assist in times of disaster, or help solve problems that have yet to be discovered.</li>
+Furthermore, I am enthusiastic about developing applications that can be utilized during times of crisis or to address unexplored challenges and emerging problems.</li>
   </ul>
-    <ul class="top-box-list top-contents">
-    <li>I understand .... </li>
-    <li>Design Thinking / Human-Centred Design process</li>
-    <li>User Research </li>
-    <li>Front Engineering </li>
-    <li>Creating Prototypes </li>
-    <li>Digital Platforms, Cloud (Azure and AWS) </li>
-    <li>Web/App Developping Method (Agile) </li>
-    <li>Project Management</li>
-  </ul>
-
+    
   <ul class="top-box-list top-contents">
     <li>I am studying </li>
     <li>Behaviour Economics</li>
@@ -52,7 +42,8 @@ Additionally, I am also interested in developing apps that can assist in times o
   <h4 class="subtitle1 history">更新履歴</h4>
   <ul class="list-history">
     <li class="bold">[2023]</li>
-    <li class="list-history-items">May.13 -- </li>
+    <li class="list-history-items">May.21 -- ローコード便利だなあ。なんでも自動化できたらいいかも。</li>
+    <li class="list-history-items">May.13 -- ローコードの勉強会に行くのでしばらく更新ストップ。</li>
     <li class="list-history-items">May.12 -- よく見るとVueそのものにトランジションやアニメが使えるらしい。使えるようになりたい。</li>
     <li class="list-history-items">May.10 -- 英文を変更した。構成変更</li>
     <li class="list-history-items">May.2 -- コンテンツの内容を追記した。</li>

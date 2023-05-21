@@ -107,7 +107,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
   </div>
 
   <div class="tbl_container touka">
-    <div class="tbl_box_1">[Heavy equipment / Intra] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、重機と人のデータ表示画面や提案書を作成</div>
+    <div class="tbl_box_1">[Heavy equipment / Intra] Azureを利用した次世代重機の車両開発PoCプロジェクトに参画し、重機と人(運転手)のデータ表示画面や提案書を作成</div>
     <div class="tbl_box_3">車載アプリ画面のデザイン、設計、構築 / Screen layout / PoC </div>
     <div class="tbl_box_3">Experience Designer</div>
   </div>
@@ -144,26 +144,35 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
   </div>
 
 
-  <div class="self-wrap">
-      <div class="about-box">
-        <h5 class="about-sub-title">Other Past Project </h5>
-        <ul class="about-box-list project-li">
-            <li>[NHK] Make PR and advertise TV Programming on Internet </li>
-            <li>[Marui] Create EC Webistes and Teaser Site</li>
-            <li>Create many Websites</li>
-        </ul>
-      
-      </div>
-      <div class="self-items3 self-item-sub2">
-        <h5 class="about-sub-title">In-House Web Designer Coding</h5>
-        <ul class="about-box-list project-skills">
-            <li>Web Design / Coding</li>
-            <li>SEO</li>
-            <li>PR</li>
-            <li>Video Editor</li>
-        </ul>
-      </div>
+  <div class="tbl_container about-sub-title" style="margin-top:2em">
+    <div class="tbl_box_1 br-1">過去のプロジェクト</div>
+    
+    <div class="tbl_box_3">担当</div>
+    <div class="tbl_box_3 br-2">ポジション・役割</div>
   </div>
+
+  <div class="tbl_container">
+    <div class="tbl_box_1 br-3">
+      <ul class="about-box-list project-li">
+            <li>[NHK] インターネット向け番組のPRと広告の運用を担当 </li>
+            <li>[Marui] 百貨店のECサイト、百貨店のWeb運用を担当</li>
+            <li>その他飲食、官公庁のサイトの構築</li>
+        </ul>
+    </div>
+   
+    <div class="tbl_box_3">
+      <ul class="about-box-list project-skills">
+            <li>デザイン・コーディング・Coding 運用</li>
+            <li>SEO設定</li>
+            <li>PR会議、PR戦略など</li>
+            <li>動画編集</li>
+        </ul>  
+    </div>
+    <div class="tbl_box_3 br-4">Web Designer / Coder</div>
+  </div>
+
+
+ 
 </template>
 
 <style scoped>

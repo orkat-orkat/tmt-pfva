@@ -134,10 +134,9 @@
     <div class="position-items">
         Business Development
       </div>
-    <div class="">
-       
-      </div>
+
     </div>
+
 
   </div>
   <small class="subtitle-eng" style="margin-left:3em;"><RouterLink :to="{ name: 'Top' }" >Back</RouterLink> To Japanese Top page</small>

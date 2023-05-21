@@ -102,6 +102,34 @@ import Skills from '@/pages/Skills.vue'
   <div class="cv-skills">
     <Skills />
   </div>
+
+
+  <div class="self-wrap">
+      
+      <ul class="about-box-list project-li">
+        <li>I am proficient in the following areas:</li>
+
+          <li>Design Thinking / Human-Centered Design Process: I am well-versed in the principles of Design Thinking and Human-Centered Design. These methodologies allow me to empathize with users, understand their needs, and create solutions that truly address their pain points.</li>
+
+            <li>User Research: I have experience conducting user research to gain insights into user behavior, preferences, and requirements. This involves employing various research techniques such as interviews, surveys, and usability testing.</li>
+
+              <li>Front-end Engineering: I possess strong front-end engineering skills, enabling me to create engaging and intuitive user interfaces. I am proficient in HTML, CSS, and JavaScript, and I stay up-to-date with the latest front-end development practices and frameworks.</li>
+
+                <li>Creating Prototypes: I am adept at transforming ideas and concepts into tangible prototypes. Using tools like Adobe XD, Figma, or InVision, I can quickly create interactive prototypes that allow for user feedback and iterative design.</li>
+
+                  <li>Digital Platforms, Cloud (Azure and AWS): I have hands-on experience working with digital platforms and cloud services, particularly Azure and AWS. I can leverage these platforms to develop scalable and secure applications, ensuring optimal performance and reliability.</li>
+
+                    <li>Web/App Development Method (Agile): I am well-versed in Agile methodologies, specifically in the context of web and app development. I am accustomed to working in iterative sprints, collaborating closely with cross-functional teams, and delivering high-quality results within set timelines.</li>
+
+                      <li>Project Management: I have a solid understanding of project management principles and practices. I am skilled at coordinating tasks, managing resources, and ensuring project milestones are met. I have the ability to effectively communicate with stakeholders and adapt to changing project requirements.</li>
+
+                      <li>Please note that the descriptions provided are just brief summaries, and I have a deeper understanding and experience in each of these areas.</li>
+        
+      
+    </ul>
+      
+      
+    </div>
 </div>
 </template>
 

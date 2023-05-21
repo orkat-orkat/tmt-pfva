@@ -139,7 +139,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">チームの人数</li>
-          <li class="pjt-overview-txt2">16名</li>
+          <li class="pjt-overview-txt2">３名</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">役割</li>
@@ -153,7 +153,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
 
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロジェクト目的</li>
-          <li class="pjt-overview-txt2">デザインを外注した際に発生してしまったデザインに関するフィードバックと、UX観点でのアドバイス作成</li>
+          <li class="pjt-overview-txt2">デザインを外注した際に発生してしまったデザインに関するフィードバックと、UX観点での改善案作成</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
@@ -211,8 +211,12 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">プロセス :</li>
-          <li class="pjt-overview-txt2">デザインフェーズから参画し、ドローン操作画面のUIとインタラクション設計を担当<br />
-            メインのグラフィックデザイナーと一緒にダークモード、ライトモードを意識したカラー設計、デザインシステムなどの資料作成なども併せて担当した。</li>
+          <li class="pjt-overview-txt2">デザインフェーズから参画し、ドローン操作画面のUIとインタラクション設計を担当。<br />
+            メインのグラフィックデザイナーと一緒に、<br />
+           ・ダークモード<br />
+           ・ライトモード
+           <br />を意識したカラー設計、
+            <br />デザインシステムなどの資料作成なども担当。</li>
         </ul>
         <ul class="pjt-overview-list1">
           <li class="pjt-overview-txt">Output : </li>
@@ -229,7 +233,7 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
           ダークモードに関するカラー設計では、これまでの経験と、ビジュアルデザイナーの知見を併せて作成することができた。操作画面は評判が良かったが、
-          実際の画面操作としては情報が多すぎたため、いくつか画面を分割するなどして臨機応変に対応することができた。
+          実際の画面操作として問題があったため、いくつか画面を分割を提案。<br />臨機応変に対応することができた。
           ほとんど英語のプロジェクトだったので、翻訳しながら機能を移植した。</li>
       </ul>
     </div>
@@ -282,8 +286,11 @@ import ProgrammingList from '@/pages/ProgrammingList.vue'
         <li style="text-align: center;"><div style=""><img src="src/assets/img/nekoshadow1.png" alt="" style="width:70%; margin:7em 0; opacity: 0.2"></div></li>
         <li>その他 : 学んだことや感想</li>
         <li style="font-weight: lighter;">
-          AIを利用した画面を作成した経験や知見が周囲にもなかったため、いろいろと試行錯誤しながら、どのようなことが実現できるのか、どう表示されるべきかを
-        検討した上で、モックアップを含めてコーディングを担当した。期待される画像が検索結果に出るかどうかなど、簡易的なテストも担当し、AI案件の定義の難しさを感じた。
+          AIを利用した画面を作成した経験や知見が周囲にもなかったため、いろいろと試行錯誤しながら、<br />
+          どのようなことが実現できるのか、<br />
+          どう表示されるべきかを
+        検討した上で、モックアップを含めてコーディングを担当した。
+        <br />期待される画像が検索結果に出るかどうかなど、簡易的なテストも担当し、AI案件の定義の難しさを感じた。
         </li>
       </ul>
     </div>
