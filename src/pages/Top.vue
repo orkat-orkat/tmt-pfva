@@ -35,14 +35,14 @@ Furthermore, I am enthusiastic about developing applications that can be utilize
   </div>
   <div class="child last-child">
     <img src="@/assets/img/3DevicesMock.png" alt="design" class="" width="80%">
-    <img src="@/assets/img/3DevicesMock.png" alt="design" class="" width="80%">
+    <!--<img src="@/assets/img/3DevicesMock.png" alt="design" class="" width="80%">-->
 </div>
 
 </div>
-  <h4 class="subtitle1 history">更新履歴</h4>
+  <h4 class="subtitle1 history">更新履歴メモ</h4>
   <ul class="list-history">
     <li class="bold">[2023]</li>
-    <li class="list-history-items">May.21 -- ローコード便利だなあ。なんでも自動化できたらいいかも。</li>
+    <li class="list-history-items">May.24 -- ローコード便利。キャプチャを載せたい。</li>
     <li class="list-history-items">May.13 -- ローコードの勉強会に行くのでしばらく更新ストップ。</li>
     <li class="list-history-items">May.12 -- よく見るとVueそのものにトランジションやアニメが使えるらしい。使えるようになりたい。</li>
     <li class="list-history-items">May.10 -- 英文を変更した。構成変更</li>
@@ -52,7 +52,7 @@ Furthermore, I am enthusiastic about developing applications that can be utilize
     <li class="list-history-items">April.11 -- ポートフォリオを作成開始しました。Netfrlyを知る。便利。でもNetfrlyが用意している
       Vue3はうまくいかなかった。（Memo）</li>
     <li class="bold">[2022]</li>
-    <li class="list-history-items">前のデザインも気に入っていたけれど、もっと手軽に更新したいと思い引越しの予定を立てた</li>
+    <li class="list-history-items">前のデザインも気に入っていたけれど、手軽に更新したいと思い引越しの予定を立てた</li>
 </ul>
 
 <p class="about-txt"> This website is appropriate to see from PC / Mac at this moment. <br >

@@ -71,10 +71,8 @@
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 's']" class="fa-pull-left"/>ServiceNow</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'p']" class="fa-pull-left"/>PowerApps</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'p']" class="fa-pull-left"/>PowerAutomate</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'a']" class="fa-pull-left"/>Angular</li>
-      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'i']" class="fa-pull-left"/>Ionic</li>
       <li class="list-short-text skill-name"><font-awesome-icon :icon="['fab', 'python']" class="fa-pull-left"/>Python</li>
-
+      <li class="list-short-text skill-name"><font-awesome-icon :icon="['fas', 'o']" class="fa-pull-left"/>Other</li>
     </ul>
   </div>
   

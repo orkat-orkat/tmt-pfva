@@ -2,21 +2,19 @@
   <div class="contents">
   <h4 class="subtitle1">Future</h4>
   <div class="self-wrap">
-  <ul class="about-txt">
-        <li>https://blog.uxfol.io/ux-designer-portfolio/?utm_source=Facebook&utm_medium=referral&utm_campaign=distro&utm_content=UX</li>
-        <li>主にB to B に関する幅広いWeb制作、アプリ制作の制作経験があります。MSOffice, Adobe製品を使うことができます。
-        <br>プロトタイプ作成には主にXDを使い、プロジェクトによりMiroなどを使いデータを収集することもあります。</li>
+  <ul class="future-list" style="list-style: circle;">
+    <li style="font-weight: bold;">My interest industries and field </li>
+    <li>AI/IoT Products</li>
+    <li>MaaS</li>
+    <li>Disaster Risk Reduction</li>
+    <li>Agliculture</li>
+    <li>Robotics in lifestyle</li>
+    <li>City Development</li>
+    <li>Digital transformation realization</li>
   </ul>
     </div>
 
-    <h4 class="subtitle4">Work History</h4>
-    <ol class="timeline-003">
-        <li class="prev">Coding</li>
-        <li class="prev">Web Designer</li>
-        <li class="prev">Experience Designer / SE</li>
-        <li class="current">UX Designer</li>
-        <li>NEXT STAGE</li>
-    </ol>
+  
 
   </div><!-- contents-->
   
